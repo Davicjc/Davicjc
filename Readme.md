@@ -1,38 +1,34 @@
 
 # Davicjc
 
-Olá! Sou o Davicjc, apaixonado pelo mundo da computação e
-programação, sempre em busca de novidades e ideias para criar coisas
-incríveis. Adoro ajudar e colaborar com projetos interessantes, e estou
-sempre aberto a novas ideias e desafios. Com alguma experiência em
-programação e um bom conhecimento geral em computação, estou
-sempre buscando aprender mais e expandir meus horizontes.
+Olá! Sou o Davicjc, um entusiasta de programação voltado a produção e maior apego ao backend. Estou em constante evolução na área, sempre em busca de novos conhecimentos e tendências. Tenho experiência em programação e conhecimentos em computação. Estou comprometido em entregar resultados e colaborar em projetos interessantes, sempre aprendendo cada vez mais. Estou aberto a desafios e sempre em busca de ideias inovadoras para criar soluções em cima de problemas.
 
-## 🛠 Competências 
-- Conhecimentos: Javascript, HTML, CSS, Python, Pascal, Blender, Unreal Engine, Unity.
+## 🛠 Competências
 
-- Habilidades: Capacidade de análise, Capacidade de adaptação, Resolução de problemas, Organização, Trabalho em equipe, Comunicação, Suporte técnico, Gestão de projetos, Web design.
+Conhecimentos:
+- Intermediário: Javascript, HTML, CSS, Blender, Unreal Engine, Unity.
+- Avançado: Python, Pascal, Inglês.
 
+Habilidades: 
+- Capacidade de análise, Capacidade de adaptação, Resolução de problemas, Organização, Trabalho em equipe, Comunicação, Suporte técnico, Gestão de projetos, Web design.
 
 ## 🐦 Social / Contato
 
-
- 
+- [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicjc/)
-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/davicjc/)
-
 
  - E-mail: davicjc@gmail.com
  - Telefone: [(34)993336186]()
-
 
 ## 📄 Certificados
 
  - [Alura - Windows Prompt](https://cursos.alura.com.br/certificate/928718ae-78bf-470c-8a9f-3f0eb90de3e2)
  - [Alura - Python](https://cursos.alura.com.br/degree/certificate/73bdebb7-586e-4155-ba31-6f9a3f9ffe31)
  - [Alura - Inglês](https://cursos.aluralingua.com.br/user/davicjc/fullCertificate/c132d749e825c86943d1d544566febd3)
+ 
 ## 🧑‍🎓 Acadêmico
-- Cursando Sistemas de informação "Uniube" em Uberlândia
-- Concluído Ensino Médio/Fundamental "Colégio Mais Positivo" em Uberlândia
-
+- Cursando Sistemas de informação ["Uniube"](https://uniube.br/) em Uberlândia
+- Concluído Ensino Médio/Fundamental ["Colégio Mais Positivo"](https://maispositivo.com.br/) em Uberlândia
+- Concluído Base do Inglês ["Wizard by Pearson"](https://wizard.com.br/) em Uberlândia 
+- Concluído, Cmd, Python, Inglês, "[Alura](https://www.alura.com.br/) / [Alura Lingua](https://www.aluralingua.com.br/)" On-line 
 
