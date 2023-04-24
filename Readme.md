@@ -10,7 +10,7 @@ Conhecimentos:
 - Avançado: Python, Pascal, Inglês.
 
 Habilidades: 
-- Capacidade de análise, Capacidade de adaptação, Resolução de problemas, Organização, Trabalho em equipe, Comunicação, Suporte técnico, Gestão de projetos, Web design.
+- Capacidade de análise, Capacidade de adaptação, Resolução de problemas, Organização, Trabalho em equipe, Comunicação, Suporte técnico, Gestão de projetos, Web design, Habilidade com Windows.
 
 ## 🐦 Social / Contato
 
