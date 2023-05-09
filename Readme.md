@@ -5,11 +5,11 @@ Olá! Sou o Davicjc, um entusiasta de programação voltado a produção e maior
 
 ## 🛠 Competências
 
-Conhecimentos:
+### Conhecimentos:
 - Intermediário: Javascript, HTML, CSS, Blender, Unreal Engine, Unity.
 - Avançado: Python, Pascal, Inglês.
 
-Habilidades: 
+### Habilidades: 
 - Capacidade de análise, Capacidade de adaptação, Resolução de problemas, Organização, Trabalho em equipe, Comunicação, Suporte técnico, Gestão de projetos, Web design, Habilidade com Windows.
 
 ## 🐦 Social / Contato
