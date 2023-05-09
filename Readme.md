@@ -1,7 +1,7 @@
 
 # Davicjc
 
-Olá! Sou o Davicjc, um entusiasta de programação voltado a produção e maior apego ao backend. Estou em constante evolução na área, sempre em busca de novos conhecimentos e tendências. Tenho experiência em programação e conhecimentos em computação. Estou comprometido em entregar resultados e colaborar em projetos interessantes, sempre aprendendo cada vez mais. Estou aberto a desafios e sempre em busca de ideias inovadoras para criar soluções em cima de problemas.
+EAI!👋 Sou o Davicjc, estou sempre em constante evolução na área👨‍💻, sempre em busca de novos conhecimentos e tendências💡. Tenho experiência em programação e conhecimentos em computação💻. Estou comprometido em entregar resultados e colaborar em projetos interessantes👀, sempre aprendendo cada vez mais🧠. Estou aberto a desafios e sempre em busca de ideias inovadoras para criar soluções em cima de problemas🧩.
 
 ## 🛠 Competências
 
@@ -17,8 +17,9 @@ Olá! Sou o Davicjc, um entusiasta de programação voltado a produção e maior
 - [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicjc/)
 
- - E-mail: davicjc@gmail.com
+ - E-mail: [davicjc@gmail.com]()
  - Telefone: [(34)993336186]()
+ - Telegram: [@Davicjc](https://t.me/Davicjc)
 
 ## 📄 Certificados
 
