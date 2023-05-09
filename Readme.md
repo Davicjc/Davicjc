@@ -1,5 +1,5 @@
 
-## Um pouco sobre mim🤏😄
+## Um pouco sobre mim 🤏
 
 EAI!👋 Sou o Davicjc, estou sempre em constante evolução na área👨‍💻, sempre em busca de novos conhecimentos e tendências💡. Tenho experiência em programação e conhecimentos em computação💻. Estou comprometido em entregar resultados e colaborar em projetos interessantes👀, sempre aprendendo cada vez mais🧠. Estou aberto a desafios e sempre em busca de ideias inovadoras para criar soluções em cima de problemas🧩.
 
