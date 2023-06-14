@@ -1,3 +1,4 @@
+[[English version]](https://github.com/Davicjc/Davicjc/blob/924a006df08b10f85698de9e90ae46a4204d4842/English%20version.md)
 
 ## Um pouco sobre mim 🤏
 
