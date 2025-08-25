@@ -1,6 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Davi%20Castro&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20pra%20Você%20Founder&descAlignY=55&descAlign=50)
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Davicjc&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
+
+<div align="center">
   
 <!-- Theme adaptive typing animation -->
 <picture>
@@ -18,7 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicjc/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicjc/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicjc@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Davicjc&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/Davicjc)
 
 </div>
 
