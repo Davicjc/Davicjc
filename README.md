@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷%20PT--BR-009c3b?style=for-the-badge" alt="PT-BR"></a>
+  <a href="README-en.md"><img src="https://img.shields.io/badge/🇺🇸%20EN--US-0a3161?style=for-the-badge" alt="EN-US"></a>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a365d&height=250&section=header&text=Olá,%20eu%20sou%20Davi%20Castro%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
