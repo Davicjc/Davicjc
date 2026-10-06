@@ -184,6 +184,85 @@ I am a technology professional focused on **full-stack development**, software e
   </tr>
 </table>
 
+### 🔒 Private projects
+
+> The code of these is private (client or internal projects) — the images show what they look like; when the site is live, the image links to it.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://nexusatlas.com.br/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/NexusAtlas.jpg" alt="🛰️ NexusAtlas"></a><br>
+      <a href="https://nexusatlas.com.br/"><b>🛰️ NexusAtlas</b></a> <code>🔒 Private</code><br>
+      <sub>Field-service SaaS: schedule, routes and real-time map</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/Crm_Alpa-Solutions.jpg" alt="📊 Valoria CRM"></a><br>
+      <a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><b>📊 Valoria CRM</b></a> <code>🔒 Private</code><br>
+      <sub>White-label CRM/ERP for field operations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://davicjc.github.io/InstitutoElora/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/InstitutoElora.jpg" alt="💆 Instituto Elora"></a><br>
+      <a href="https://davicjc.github.io/InstitutoElora/"><b>💆 Instituto Elora</b></a> <code>🔒 Private</code><br>
+      <sub>Aesthetics clinic: website, client area with chat and admin panel</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://davicjc.github.io/AudicomTecnologia/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/AudicomTecnologia.jpg" alt="🔐 Audicom Tecnologia"></a><br>
+      <a href="https://davicjc.github.io/AudicomTecnologia/"><b>🔐 Audicom Tecnologia</b></a> <code>🔒 Private</code><br>
+      <sub>Website, catalog and admin for access control</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/Site_Cooperbant.jpg" alt="🏦 Cooperbant"><br>
+      <b>🏦 Cooperbant</b> <code>🔒 Private</code><br>
+      <sub>New website and CMS for a credit union</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/Projeto_Rodrigo_QuizAlunos.jpg" alt="🎓 Quiz da Turma"><br>
+      <b>🎓 Quiz da Turma</b> <code>🔒 Private</code><br>
+      <sub>Live classroom quiz: teacher on PC, students on phones</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/PopManager.jpg" alt="📡 POP Manager"><br>
+      <b>📡 POP Manager</b> <code>🔒 Private</code><br>
+      <sub>Network POP monitoring for an ISP (FastAPI)</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://velocidadeteste.audicomtelecom.com.br/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/VelocidadeTesteAudicom.jpg" alt="⚡ Teste de Velocidade"></a><br>
+      <a href="https://velocidadeteste.audicomtelecom.com.br/"><b>⚡ Teste de Velocidade</b></a> <code>🔒 Private</code><br>
+      <sub>Custom speed test and technician scheduling</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://audicomtelecom.com.br/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/AudicomSite.jpg" alt="📶 Audicom Telecom"></a><br>
+      <a href="https://audicomtelecom.com.br/"><b>📶 Audicom Telecom</b></a> <code>🔒 Private</code><br>
+      <sub>Fiber ISP corporate website, in 3 languages</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://davicjc.github.io/PedidosAudicom/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/PedidosAudicom.jpg" alt="📝 Pedidos Audicom"></a><br>
+      <a href="https://davicjc.github.io/PedidosAudicom/"><b>📝 Pedidos Audicom</b></a> <code>🔒 Private</code><br>
+      <sub>Internet orders with digital signature and tracking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://davicjc.github.io/Pagina_Sanctorum/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/Pagina_Sanctorum.jpg" alt="💎 Grupo Sanctorum"></a><br>
+      <a href="https://davicjc.github.io/Pagina_Sanctorum/"><b>💎 Grupo Sanctorum</b></a> <code>🔒 Private</code><br>
+      <sub>Accounting landing page</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/BrunoFilhoPortifolio.jpg" alt="🎬 Bruno Filho"></a><br>
+      <a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><b>🎬 Bruno Filho</b></a> <code>🔒 Private</code><br>
+      <sub>Marketing portfolio with videos</sub>
+    </td>
+  </tr>
+</table>
+
 Also in production: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Audicom Speed Test](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)
 
 *(Discover +20 other corporate projects and dashboards on my [Portfolio](https://davicjc.com))*
