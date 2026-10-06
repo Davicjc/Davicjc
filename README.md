@@ -80,14 +80,111 @@ Sou um profissional de tecnologia com foco em **desenvolvimento full-stack**, cr
 
 ## 🏆 Projetos em Destaque
 
-| Projeto | Descrição | Status / Destaque |
-|---------|-----------|-------------------|
-| 🔐 **[Face Safety](https://github.com/Davicjc/Face-Safety)** | Sistema de reconhecimento facial para controle de acesso (Python, OpenCV). | 🥇 1º Lugar Acadêmico |
-| 🏢 **[Sistemas de Segurança Corporativa](https://github.com/Davicjc/AcessoAudicom)** | Integração de catracas eletrônicas e controle biométrico. | ⚙️ Python e C# |
-| 🛍️ **[Web pra Você](https://webpravoce.shop/)** | Plataforma e portal próprio para a criação de sites de alta performance. | 🚀 Online |
-| 📶 **[Audicom Telecom](https://audicomtelecom.com.br/)** | Site corporativo responsivo e moderno para empresa de telecom. | 🌟 Destaque |
-| ⚡ **[Audicom - Teste de Velocidade](https://velocidadeteste.audicomtelecom.com.br/)** | Ferramenta desenvolvida sob medida para testes de rede dos clientes. | 🔥 Avançado |
-| 🛠️ **[Footer Universal](https://footer.davicjc.com/)** | Ferramenta open source para um footer profissional rápido e fácil. | 💡 Open Source |
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/Ecolyra"><img src="https://raw.githubusercontent.com/Davicjc/Ecolyra/main/docs/overlay.png" alt="🎵 Ecolyra"></a><br>
+      <a href="https://github.com/Davicjc/Ecolyra"><b>🎵 Ecolyra</b></a><br>
+      <sub>Letras traduzidas em tempo real que escutam a música (Shazam + Whisper)</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/FitIA"><img src="https://raw.githubusercontent.com/Davicjc/FitIA/main/.github/readme/preview.png" alt="🏋️ FitAI"></a><br>
+      <a href="https://github.com/Davicjc/FitIA"><b>🏋️ FitAI</b></a><br>
+      <sub>Reconhece exercícios pela câmera e conta as repetições</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/ROAs-Monitor-Status"><img src="https://raw.githubusercontent.com/Davicjc/ROAs-Monitor-Status/main/.github/readme/preview.png" alt="🛡️ ROAs Monitor"></a><br>
+      <a href="https://github.com/Davicjc/ROAs-Monitor-Status"><b>🛡️ ROAs Monitor</b></a><br>
+      <sub>Monitoramento RPKI do seu ASN com alertas no Telegram</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/CronologiaPokemon"><img src="https://raw.githubusercontent.com/Davicjc/CronologiaPokemon/main/.github/readme/preview.png" alt="⚡ Cronologia Pokémon"></a><br>
+      <a href="https://github.com/Davicjc/CronologiaPokemon"><b>⚡ Cronologia Pokémon</b></a><br>
+      <sub>A ordem certa para assistir todo o anime, em 3 idiomas</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/DesenhoBase64"><img src="https://raw.githubusercontent.com/Davicjc/DesenhoBase64/main/.github/readme/preview.png" alt="🎨 Desenho Mágico"></a><br>
+      <a href="https://github.com/Davicjc/DesenhoBase64"><b>🎨 Desenho Mágico</b></a><br>
+      <sub>Biblioteca JS para desenhar no canvas e exportar em Base64</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/FooterDavicjc"><img src="https://raw.githubusercontent.com/Davicjc/FooterDavicjc/main/.github/readme/preview.png" alt="🔖 Footer davicjc"></a><br>
+      <a href="https://github.com/Davicjc/FooterDavicjc"><b>🔖 Footer davicjc</b></a><br>
+      <sub>O selo de assinatura dos sites que eu faço</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/FaceSafety"><img src="https://raw.githubusercontent.com/Davicjc/FaceSafety/main/.github/readme/banner.png" alt="🔐 Face Safety"></a><br>
+      <a href="https://github.com/Davicjc/FaceSafety"><b>🔐 Face Safety</b></a><br>
+      <sub>Reconhecimento facial para controle de acesso — 🥇 1º lugar acadêmico</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/telemetry-portal"><img src="https://raw.githubusercontent.com/Davicjc/telemetry-portal/main/.github/readme/banner.png" alt="🛰️ Telemetry Portal"></a><br>
+      <a href="https://github.com/Davicjc/telemetry-portal"><b>🛰️ Telemetry Portal</b></a><br>
+      <sub>OSPF e BFD de roteadores MikroTik num painel próprio</sub>
+    </td>
+  </tr>
+</table>
+
+### 🌐 Sites e sistemas para clientes
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/BarbeariaSoares"><img src="https://raw.githubusercontent.com/Davicjc/BarbeariaSoares/main/.github/readme/preview.png" alt="💈 Barbearia Soares"></a><br>
+      <a href="https://github.com/Davicjc/BarbeariaSoares"><b>💈 Barbearia Soares</b></a><br>
+      <sub>Agendamento online pelo WhatsApp</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/PatriciaMouraLashDesign"><img src="https://raw.githubusercontent.com/Davicjc/PatriciaMouraLashDesign/main/.github/readme/preview.png" alt="👁️ Patricia Moura · Lash"></a><br>
+      <a href="https://github.com/Davicjc/PatriciaMouraLashDesign"><b>👁️ Patricia Moura · Lash</b></a><br>
+      <sub>Agendamento em tempo real com Firebase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/CapileSite"><img src="https://raw.githubusercontent.com/Davicjc/CapileSite/main/.github/readme/preview.png" alt="🍹 Capilé Drinks"></a><br>
+      <a href="https://github.com/Davicjc/CapileSite"><b>🍹 Capilé Drinks</b></a><br>
+      <sub>Cardápio interativo e painel do bar</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/PortifolioDDWilber"><img src="https://raw.githubusercontent.com/Davicjc/PortifolioDDWilber/main/.github/readme/preview.png" alt="📈 Dennis Wilber"></a><br>
+      <a href="https://github.com/Davicjc/PortifolioDDWilber"><b>📈 Dennis Wilber</b></a><br>
+      <sub>Portfólio de liderança em vendas</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/AcessoAudicom"><img src="https://raw.githubusercontent.com/Davicjc/AcessoAudicom/main/.github/readme/preview.png" alt="🏢 Acesso Audicom"></a><br>
+      <a href="https://github.com/Davicjc/AcessoAudicom"><b>🏢 Acesso Audicom</b></a><br>
+      <sub>Visitantes, QR Code e catraca automática</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/AudicomHub"><img src="https://raw.githubusercontent.com/Davicjc/AudicomHub/main/.github/readme/preview.png" alt="🧭 Audicom Hub"></a><br>
+      <a href="https://github.com/Davicjc/AudicomHub"><b>🧭 Audicom Hub</b></a><br>
+      <sub>Portal interno: chamados, rondas e frota</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/AudicomSiteReuniao"><img src="https://raw.githubusercontent.com/Davicjc/AudicomSiteReuniao/main/.github/readme/preview.png" alt="📺 Audicom · Sala de Reunião"></a><br>
+      <a href="https://github.com/Davicjc/AudicomSiteReuniao"><b>📺 Audicom · Sala de Reunião</b></a><br>
+      <sub>Tela da TV com clima, Wi-Fi e clientes</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Davicjc/QRCodeAudicomSite"><img src="https://raw.githubusercontent.com/Davicjc/QRCodeAudicomSite/main/.github/readme/preview.png" alt="🔗 Audicom · Links"></a><br>
+      <a href="https://github.com/Davicjc/QRCodeAudicomSite"><b>🔗 Audicom · Links</b></a><br>
+      <sub>Página dos QR Codes dos carros</sub>
+    </td>
+  </tr>
+</table>
+
+Também em produção: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Teste de Velocidade Audicom](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)
 
 *(Descubra +20 outros projetos corporativos e painéis no meu [Portfólio](https://davicjc.com))*
 
