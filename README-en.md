@@ -160,22 +160,17 @@ I am a technology professional focused on **full-stack development**, software e
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Davicjc/AcessoAudicom"><img src="https://raw.githubusercontent.com/Davicjc/AcessoAudicom/main/.github/readme/preview.png" alt="🏢 Acesso Audicom"></a><br>
-      <a href="https://github.com/Davicjc/AcessoAudicom"><b>🏢 Acesso Audicom</b></a><br>
-      <sub>Visitors, QR Code and automatic turnstile</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
       <a href="https://github.com/Davicjc/AudicomHub"><img src="https://raw.githubusercontent.com/Davicjc/AudicomHub/main/.github/readme/preview.png" alt="🧭 Audicom Hub"></a><br>
       <a href="https://github.com/Davicjc/AudicomHub"><b>🧭 Audicom Hub</b></a><br>
       <sub>Internal portal: tickets, patrols and fleet</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Davicjc/AudicomSiteReuniao"><img src="https://raw.githubusercontent.com/Davicjc/AudicomSiteReuniao/main/.github/readme/preview.png" alt="📺 Audicom · Sala de Reunião"></a><br>
       <a href="https://github.com/Davicjc/AudicomSiteReuniao"><b>📺 Audicom · Sala de Reunião</b></a><br>
       <sub>Meeting-room TV screen</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Davicjc/QRCodeAudicomSite"><img src="https://raw.githubusercontent.com/Davicjc/QRCodeAudicomSite/main/.github/readme/preview.png" alt="🔗 Audicom · Links"></a><br>
       <a href="https://github.com/Davicjc/QRCodeAudicomSite"><b>🔗 Audicom · Links</b></a><br>
@@ -244,17 +239,12 @@ I am a technology professional focused on **full-stack development**, software e
       <sub>Fiber ISP corporate website, in 3 languages</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://davicjc.github.io/PedidosAudicom/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/PedidosAudicom.jpg" alt="📝 Pedidos Audicom"></a><br>
-      <a href="https://davicjc.github.io/PedidosAudicom/"><b>📝 Pedidos Audicom</b></a> <code>🔒 Private</code><br>
-      <sub>Internet orders with digital signature and tracking</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
       <a href="https://davicjc.github.io/Pagina_Sanctorum/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/Pagina_Sanctorum.jpg" alt="💎 Grupo Sanctorum"></a><br>
       <a href="https://davicjc.github.io/Pagina_Sanctorum/"><b>💎 Grupo Sanctorum</b></a> <code>🔒 Private</code><br>
       <sub>Accounting landing page</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><img src="https://raw.githubusercontent.com/Davicjc/Davicjc/main/imagens/projetos/BrunoFilhoPortifolio.jpg" alt="🎬 Bruno Filho"></a><br>
       <a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><b>🎬 Bruno Filho</b></a> <code>🔒 Private</code><br>
