@@ -21,6 +21,7 @@ os.makedirs(SVG, exist_ok=True)
 
 DADOS = json.load(open(os.path.join(PERFIL, "projetos.json"), encoding="utf-8"))
 P = DADOS["projetos"]
+DATA_REF = date.fromisoformat(DADOS["atualizado"])  # data dos dados, não do relógio: rodar de novo não muda nada
 
 TEMAS = {
     "escuro": dict(bg="#0d1117", painel="#161b22", linha="#30363d", texto="#e6edf3", fraco="#8b949e",
@@ -354,7 +355,7 @@ def projetos_md():
               "# 🌳 Árvore de projetos", "",
               "Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve** e **em que pé está**. "
               "Os privados (🔒) aparecem com nome e propósito, mas o código continua fechado.", "",
-              f"*Atualizado em {date.today().strftime('%d/%m/%Y')} · {len(P)} projetos · "
+              f"*Atualizado em {DATA_REF.strftime('%d/%m/%Y')} · {len(P)} projetos · "
               f"{sum(1 for p in P if p['privado'])} privados · {sum(1 for p in P if not p['privado'])} públicos*", "",
               "## Legenda", "", "| Situação | Significa |", "|---|---|"]
     sig = {"no_ar": "entregue e funcionando, em uso", "manutencao": "entregue e ainda recebe melhorias",
@@ -396,7 +397,7 @@ def montar_readme(idioma):
     t = t.replace("{{NUMEROS}}", imagem_tema("numeros" + suf, alt[1]))
     t = t.replace("{{MAPA}}", imagem_tema("mapa" + suf, alt[2]))
     t = t.replace("{{DESTAQUES}}", bloco_destaques(idioma))
-    t = t.replace("{{DATA}}", date.today().strftime("%d/%m/%Y" if idioma == "pt" else "%Y-%m-%d"))
+    t = t.replace("{{DATA}}", DATA_REF.strftime("%d/%m/%Y" if idioma == "pt" else "%Y-%m-%d"))
     return "<!-- Gerado por perfil/gerar.py — edite perfil/README." + idioma + ".md e perfil/projetos.json. -->\n" + t
 
 
