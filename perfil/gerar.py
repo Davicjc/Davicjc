@@ -378,7 +378,8 @@ def projetos_md():
                 links.append(f"[site]({p['site']})")
             if not p["privado"]:
                 links.append(f"[código](https://github.com/Davicjc/{p['repo']})")
-            quem = f"<br><sub>{esc(p['cliente'])}</sub>" if p["cliente"] else ""
+            mesmo = p["cliente"].lower().replace(" ", "") in p["titulo"].lower().replace(" ", "")
+            quem = f"<br><sub>{esc(p['cliente'])}</sub>" if p["cliente"] and not mesmo else ""
             stack = f"<br><sub>{esc(' · '.join(p['stack'][:4]))}</sub>" if p["stack"] else ""
             sit = f"{EMOJI[p['situacao']]} {SITUACAO[p['situacao']][1]}" if p["situacao"] else "—"
             linhas.append(f"| {'🔒' if p['privado'] else '🌐'} | **{esc(p['titulo'])}**{quem} | {esc(p['proposito'])}{stack} | "

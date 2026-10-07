@@ -40,14 +40,14 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 
 | | Projeto | Para que serve | Situação | Ano | Links |
 |---|---|---|---|---|---|
-| 🌐 | **Barbearia Soares**<br><sub>Barbearia Soares</sub> | Agendamento online pelo WhatsApp<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/BarbeariaSoares/) · [código](https://github.com/Davicjc/BarbeariaSoares) |
-| 🔒 | **Bruno Filho**<br><sub>Bruno Filho</sub> | Portfólio de marketing com vídeos<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/BrunoFilhoPortifolio/) |
-| 🌐 | **Capilé Drinks**<br><sub>Capilé Drinks</sub> | Cardápio interativo e painel do bar<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/CapileSite/) · [código](https://github.com/Davicjc/CapileSite) |
-| 🔒 | **Cooperbant**<br><sub>Cooperbant</sub> | Novo site e CMS de uma cooperativa de crédito<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | — |
-| 🌐 | **Dennis Wilber**<br><sub>Dennis Wilber</sub> | Portfólio de liderança em vendas<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2025 | [site](https://davicjc.github.io/PortifolioDDWilber/) · [código](https://github.com/Davicjc/PortifolioDDWilber) |
-| 🔒 | **Grupo Sanctorum**<br><sub>Grupo Sanctorum</sub> | Landing page de contabilidade<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/Pagina_Sanctorum/) |
-| 🔒 | **Instituto Elora**<br><sub>Instituto Elora</sub> | Clínica de estética: site, área do cliente com chat e painel<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | [site](https://davicjc.github.io/InstitutoElora/) |
-| 🌐 | **Patricia Moura · Lash Designer**<br><sub>Patricia Moura</sub> | Agendamento em tempo real com Firebase<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | [site](https://davicjc.github.io/PatriciaMouraLashDesign/) · [código](https://github.com/Davicjc/PatriciaMouraLashDesign) |
+| 🌐 | **Barbearia Soares** | Agendamento online pelo WhatsApp<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/BarbeariaSoares/) · [código](https://github.com/Davicjc/BarbeariaSoares) |
+| 🔒 | **Bruno Filho** | Portfólio de marketing com vídeos<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/BrunoFilhoPortifolio/) |
+| 🌐 | **Capilé Drinks** | Cardápio interativo e painel do bar<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/CapileSite/) · [código](https://github.com/Davicjc/CapileSite) |
+| 🔒 | **Cooperbant** | Novo site e CMS de uma cooperativa de crédito<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | — |
+| 🌐 | **Dennis Wilber** | Portfólio de liderança em vendas<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2025 | [site](https://davicjc.github.io/PortifolioDDWilber/) · [código](https://github.com/Davicjc/PortifolioDDWilber) |
+| 🔒 | **Grupo Sanctorum** | Landing page de contabilidade<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/Pagina_Sanctorum/) |
+| 🔒 | **Instituto Elora** | Clínica de estética: site, área do cliente com chat e painel<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | [site](https://davicjc.github.io/InstitutoElora/) |
+| 🌐 | **Patricia Moura · Lash Designer** | Agendamento em tempo real com Firebase<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | [site](https://davicjc.github.io/PatriciaMouraLashDesign/) · [código](https://github.com/Davicjc/PatriciaMouraLashDesign) |
 | 🔒 | **Quiz da Turma**<br><sub>Rodrigo (professor)</sub> | Quiz ao vivo: professor no PC, alunos no celular com PIN<br><sub>HTML5 · JavaScript · Firebase</sub> | — | 2026 | — |
 | 🔒 | **Valoria CRM**<br><sub>Alpa Solutions</sub> | CRM/ERP white-label para operações de campo<br><sub>HTML5 · Tailwind CSS · JavaScript · Firebase</sub> | — | 2026 | [site](https://davicjc.github.io/Crm_Alpa-Solutions/) |
 
@@ -59,8 +59,8 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 | 🌐 | **Akvorado (fork)**<br><sub>Audicom Telecom</sub> | Fork do Akvorado (coletor e visualizador de fluxos de rede) adaptado para a rede da Audicom. | — | 2026 | [código](https://github.com/Davicjc/akvorado_cjc) |
 | 🔒 | **App Audicom**<br><sub>Audicom Telecom</sub> | App instalável (PWA) da Audicom Telecom: login do cliente, central e teste de velocidade num só lugar.<br><sub>HTML5 · CSS3 · JavaScript · PWA</sub> | — | 2025 | [site](https://davicjc.github.io/AppAudicom/) |
 | 🌐 | **Audicom Hub**<br><sub>Audicom Telecom</sub> | Portal interno: chamados, rondas e frota<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2026 | [site](https://davicjc.github.io/AudicomHub/) · [código](https://github.com/Davicjc/AudicomHub) |
-| 🔒 | **Audicom Tecnologia**<br><sub>Audicom Tecnologia</sub> | Site, catálogo e painel de controle de acesso e ponto<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2025 | [site](https://davicjc.github.io/AudicomTecnologia/) |
-| 🔒 | **Audicom Telecom**<br><sub>Audicom Telecom</sub> | Site institucional de internet fibra, em 3 idiomas<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2025 | [site](https://audicomtelecom.com.br/) |
+| 🔒 | **Audicom Tecnologia** | Site, catálogo e painel de controle de acesso e ponto<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | — | 2025 | [site](https://davicjc.github.io/AudicomTecnologia/) |
+| 🔒 | **Audicom Telecom** | Site institucional de internet fibra, em 3 idiomas<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2025 | [site](https://audicomtelecom.com.br/) |
 | 🌐 | **Audicom · Links**<br><sub>Audicom Telecom</sub> | Página dos QR Codes dos carros<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/QRCodeAudicomSite/) · [código](https://github.com/Davicjc/QRCodeAudicomSite) |
 | 🌐 | **Audicom · Sala de Reunião**<br><sub>Audicom Telecom</sub> | Tela da TV com clima, Wi-Fi e clientes<br><sub>HTML5 · CSS3 · JavaScript</sub> | — | 2026 | [site](https://davicjc.github.io/AudicomSiteReuniao/) · [código](https://github.com/Davicjc/AudicomSiteReuniao) |
 | 🔒 | **Audinha**<br><sub>Audicom</sub> | Audinha: extensão de navegador da Audicom com o chat de IA interno em qualquer página e exportação/classificação das conversas de atendimento do James.<br><sub>JavaScript · Chrome Extension</sub> | — | 2026 | — |
