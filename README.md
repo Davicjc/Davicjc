@@ -10,7 +10,7 @@
   <p>
     <a href="https://davicjc.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
     <a href="https://linkedin.com/in/davicjc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:davicjc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:contato@davicjc.com"><img alt="contato@davicjc.com" src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_contato%40davicjc.com-D14836?style=for-the-badge" /></a>
   </p>
 </div>
 
@@ -266,9 +266,10 @@ Sou um profissional de tecnologia com foco em **desenvolvimento full-stack**, cr
 > [!NOTE]
 > **Sobre os projetos desta página**
 >
-> - Alguns ainda **não foram lançados** ou estão em desenvolvimento — podem ser protótipos, versões de teste ou propostas que não chegaram a ser adotadas.
-> - Nomes, logos e marcas de empresas que aparecem nas imagens **pertencem aos seus respectivos donos**. Estão aqui **apenas para fins de portfólio**, sem uso comercial, e não indicam parceria, patrocínio ou aprovação — em alguns casos, a própria marca pode nem ter conhecimento desta vitrine.
-> - É responsável por alguma dessas marcas e prefere que ela não apareça aqui? [Me chame](mailto:davicjc@gmail.com) que eu retiro.
+> - A maior parte foi **desenvolvida para clientes reais**, que estão cientes de que o trabalho aparece no meu portfólio.
+> - Alguns ainda **não foram lançados** ou estão em desenvolvimento, e há também protótipos e propostas que não chegaram a ser adotados.
+> - Nomes, logos e marcas de terceiros **pertencem aos seus respectivos donos** e aparecem aqui apenas para mostrar o trabalho realizado — sem uso comercial e sem indicar parceria ou aprovação além do próprio projeto.
+> - Representa alguma dessas marcas e prefere que ela não apareça aqui? Fale comigo em [contato@davicjc.com](mailto:contato@davicjc.com) que eu retiro.
 
 Também em produção: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Teste de Velocidade Audicom](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)
 

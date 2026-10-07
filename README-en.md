@@ -10,7 +10,7 @@
   <p>
     <a href="https://davicjc.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
     <a href="https://linkedin.com/in/davicjc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:davicjc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:contato@davicjc.com"><img alt="contato@davicjc.com" src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_contato%40davicjc.com-D14836?style=for-the-badge" /></a>
   </p>
 </div>
 
@@ -266,9 +266,10 @@ I am a technology professional focused on **full-stack development**, software e
 > [!NOTE]
 > **About the projects on this page**
 >
-> - Some have **not been launched** yet or are still in development — they may be prototypes, test builds or proposals that were never adopted.
-> - Company names, logos and trademarks shown in the images **belong to their respective owners**. They appear **for portfolio purposes only**, with no commercial use, and do not imply partnership, sponsorship or endorsement — in some cases the brand owner may not even be aware of this showcase.
-> - Are you responsible for one of these brands and would rather it not appear here? [Contact me](mailto:davicjc@gmail.com) and I'll remove it.
+> - Most of them were **built for real clients**, who are aware that the work appears in my portfolio.
+> - Some have **not been launched** yet or are still in development, and a few are prototypes or proposals that were never adopted.
+> - Third-party names, logos and trademarks **belong to their respective owners** and appear here only to show the work delivered — with no commercial use and no implied partnership or endorsement beyond the project itself.
+> - Do you represent one of these brands and would rather it not appear here? Reach me at [contato@davicjc.com](mailto:contato@davicjc.com) and I'll remove it.
 
 Also in production: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Audicom Speed Test](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)
 
