@@ -325,4 +325,4 @@ Acumulo conhecimento formal através de extensas capacitações, com maior foco 
   <p>Feito com paixão pela tecnologia ☕ por Davi Castro Jorge da Costa.</p>
 </div>
 
-<p align="center"><sub>Atualizado em 07/10/2026 · este perfil é gerado por <a href="perfil/gerar.py"><code>perfil/gerar.py</code></a> a partir de <a href="perfil/projetos.json"><code>projetos.json</code></a></sub></p>
+<p align="center"><sub>Atualizado em 06/10/2026 · este perfil é gerado por <a href="perfil/gerar.py"><code>perfil/gerar.py</code></a> a partir de <a href="perfil/projetos.json"><code>projetos.json</code></a></sub></p>

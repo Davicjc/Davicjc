@@ -11,7 +11,7 @@
 
 Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve** e **em que pé está**. Os privados (🔒) aparecem com nome e propósito, mas o código continua fechado.
 
-*Atualizado em 07/10/2026 · 39 projetos · 20 privados · 19 públicos*
+*Atualizado em 06/10/2026 · 39 projetos · 20 privados · 19 públicos*
 
 ## Legenda
 
