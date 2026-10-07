@@ -20,7 +20,7 @@ RAW = "https://raw.githubusercontent.com/Davicjc/{}/main/{}"
 os.makedirs(SVG, exist_ok=True)
 
 DADOS = json.load(open(os.path.join(PERFIL, "projetos.json"), encoding="utf-8"))
-P = DADOS["projetos"]
+P = [p for p in DADOS["projetos"] if p.get("perfil") != "ocultar"]  # "ocultar" some do perfil inteiro
 DATA_REF = date.fromisoformat(DADOS["atualizado"])  # data dos dados, não do relógio: rodar de novo não muda nada
 
 TEMAS = {
@@ -38,7 +38,7 @@ SITUACAO = {  # chave: (cor, PT, EN)
     "recusado": ("#f85149", "Proposta recusada", "Proposal declined"),
     "prototipo": ("#db61a2", "Protótipo", "Prototype"),
     "pausado": ("#6e7681", "Pausado", "Paused"),
-    "abandonado": ("#6e7681", "Abandonado", "Abandoned"),
+    "abandonado": ("#bd561d", "Abandonado", "Abandoned"),
     "historico": ("#6e7681", "Histórico", "Archive"),
     "": ("#8b949e", "A confirmar", "To be confirmed"),
 }
@@ -160,12 +160,12 @@ def topo(tema, idioma):
 def numeros(tema, idioma):
     c = TEMAS[tema]
     para_outros = sum(1 for p in P if p["origem"] in ("cliente", "empresa", "proposta"))
-    no_ar = sum(1 for p in P if p["site"])
+    no_ar = sum(1 for p in P if p["situacao"] in ("no_ar", "manutencao"))
     techs = len({t for p in P for t in p["stack"]})
     desde = min(int(p["ano"]) for p in P if str(p["ano"]).isdigit())
-    itens = {"pt": [(len(P), "projetos"), (para_outros, "para clientes e empresa"), (no_ar, "com site no ar"),
+    itens = {"pt": [(len(P), "projetos"), (para_outros, "para clientes e empresa"), (no_ar, "no ar e em uso"),
                     (techs, "tecnologias"), (desde, "programando desde")],
-             "en": [(len(P), "projects"), (para_outros, "for clients & company"), (no_ar, "with a live site"),
+             "en": [(len(P), "projects"), (para_outros, "for clients & company"), (no_ar, "live and in use"),
                     (techs, "technologies"), (desde, "coding since")]}[idioma]
     W, H, n = 1200, 132, len(itens)
     larg = (W - 16 * (n - 1)) / n
@@ -253,13 +253,14 @@ def arvore(tema, idioma):
          f'<rect width="{W}" height="{H}" rx="16" fill="{c["bg"]}"/><rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="16" fill="none" stroke="{c["linha"]}"/>']
     # legenda
     x = 30
+    usados = {p["situacao"] for p in P}
     for k, (cor, pt, en) in SITUACAO.items():
         rot = pt if idioma == "pt" else en
-        if k in ("abandonado", "historico"):
+        if k not in usados:  # legenda só com o que aparece na árvore
             continue
         s.append(f'<circle cx="{x + 5}" cy="34" r="5" fill="{cor}" opacity="{.4 if k == "" else 1}"/>'
                  f'<text x="{x + 15}" y="39" font-size="13" fill="{c["fraco"]}">{esc(rot)}</text>')
-        x += 30 + len(rot) * 6.6
+        x += 34 + len(rot) * 7.1
     s.append(cadeado(x + 4, 27, c["fraco"]) + f'<text x="{x + 20}" y="39" font-size="13" fill="{c["fraco"]}">{"privado" if idioma == "pt" else "private"}</text>')
     y = topo_y
     atraso = 0.2
