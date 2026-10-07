@@ -1,0 +1,38 @@
+name: Atualizar perfil
+
+# Sempre que projetos.json, os modelos do README ou o gerador mudarem,
+# regenera os SVGs, a PROJETOS.md e os READMEs e faz o commit.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "perfil/projetos.json"
+      - "perfil/README.pt.md"
+      - "perfil/README.en.md"
+      - "perfil/gerar.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gerar perfil
+        run: python perfil/gerar.py
+      - name: Commit
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "Davi Castro"
+            git config user.email "Davicjc@gmail.com"
+            git add -A README.md README-en.md PROJETOS.md perfil/svg
+            git commit -m "perfil: atualizado a partir de projetos.json"
+            git push
+          else
+            echo "Nada mudou."
+          fi
