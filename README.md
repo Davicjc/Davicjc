@@ -44,182 +44,182 @@
 ### 🧪 Projetos próprios
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/CronologiaPokemon/"><img src="https://raw.githubusercontent.com/Davicjc/CronologiaPokemon/main/.github/readme/preview.png" alt="Cronologia Pokémon"></a><br>
-      <a href="https://davicjc.github.io/CronologiaPokemon/"><b>Cronologia Pokémon</b></a><br>
-      <sub>A ordem certa para assistir todo o anime, em 3 idiomas</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/DesenhoBase64/"><img src="https://raw.githubusercontent.com/Davicjc/DesenhoBase64/main/.github/readme/preview.png" alt="Desenho Mágico"></a><br>
-      <a href="https://davicjc.github.io/DesenhoBase64/"><b>Desenho Mágico</b></a><br>
-      <sub>Biblioteca JS para desenhar no canvas e exportar em Base64</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      
-      <a href="https://github.com/Davicjc/Ecolyra"><b>Ecolyra</b></a><br>
-      <sub>Letras traduzidas em tempo real que escutam a música (Shazam + Whisper)</sub>
-    </td>
-    <td width="50%" valign="top">
-      
-      <a href="https://github.com/Davicjc/FaceSafety"><b>Face Safety</b></a><br>
-      <sub>Reconhecimento facial para controle de acesso — 🥇 1º lugar acadêmico</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/FitIA/"><img src="https://raw.githubusercontent.com/Davicjc/FitIA/main/.github/readme/preview.png" alt="FitAI"></a><br>
-      <a href="https://davicjc.github.io/FitIA/"><b>FitAI</b></a><br>
-      <sub>Reconhece exercícios pela câmera e conta as repetições</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://footer.davicjc.com/"><img src="https://raw.githubusercontent.com/Davicjc/FooterDavicjc/main/.github/readme/preview.png" alt="Footer davicjc"></a><br>
-      <a href="https://footer.davicjc.com/"><b>Footer davicjc</b></a><br>
-      <sub>O selo de assinatura dos sites que eu faço</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://nexusatlas.com.br/"><img src="imagens/projetos/NexusAtlas.jpg" alt="NexusAtlas"></a><br>
-      <a href="https://nexusatlas.com.br/"><b>NexusAtlas</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>SaaS de ordens de serviço em campo: agenda, rotas e mapa em tempo real</sub>
-    </td>
-    <td width="50%"></td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/CronologiaPokemon/"><img src="https://raw.githubusercontent.com/Davicjc/CronologiaPokemon/main/.github/readme/preview.png" alt="Cronologia Pokémon" width="100%"></a><br>
+<a href="https://davicjc.github.io/CronologiaPokemon/"><b>Cronologia Pokémon</b></a><br>
+<sub>A ordem certa para assistir todo o anime, em 3 idiomas</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/DesenhoBase64/"><img src="https://raw.githubusercontent.com/Davicjc/DesenhoBase64/main/.github/readme/preview.png" alt="Desenho Mágico" width="100%"></a><br>
+<a href="https://davicjc.github.io/DesenhoBase64/"><b>Desenho Mágico</b></a><br>
+<sub>Biblioteca JS para desenhar no canvas e exportar em Base64</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Davicjc/Ecolyra"><img src="https://raw.githubusercontent.com/Davicjc/Ecolyra/main/docs/banner.png" alt="Ecolyra" width="100%"></a><br>
+<a href="https://github.com/Davicjc/Ecolyra"><b>Ecolyra</b></a><br>
+<sub>Letras traduzidas em tempo real que escutam a música (Shazam + Whisper)</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Davicjc/FaceSafety"><img src="https://raw.githubusercontent.com/Davicjc/FaceSafety/main/.github/readme/telas.png" alt="Face Safety" width="100%"></a><br>
+<a href="https://github.com/Davicjc/FaceSafety"><b>Face Safety</b></a><br>
+<sub>Reconhecimento facial para controle de acesso — 🥇 1º lugar acadêmico</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/FitIA/"><img src="https://raw.githubusercontent.com/Davicjc/FitIA/main/.github/readme/preview.png" alt="FitAI" width="100%"></a><br>
+<a href="https://davicjc.github.io/FitIA/"><b>FitAI</b></a><br>
+<sub>Reconhece exercícios pela câmera e conta as repetições</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://footer.davicjc.com/"><img src="https://raw.githubusercontent.com/Davicjc/FooterDavicjc/main/.github/readme/preview.png" alt="Footer davicjc" width="100%"></a><br>
+<a href="https://footer.davicjc.com/"><b>Footer davicjc</b></a><br>
+<sub>O selo de assinatura dos sites que eu faço</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://nexusatlas.com.br/"><img src="imagens/projetos/NexusAtlas.jpg" alt="NexusAtlas" width="100%"></a><br>
+<a href="https://nexusatlas.com.br/"><b>NexusAtlas</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>SaaS de ordens de serviço em campo: agenda, rotas e mapa em tempo real</sub>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ### 🤝 Feitos para clientes e empresa
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/AudicomHub/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomHub/main/.github/readme/preview.png" alt="Audicom Hub"></a><br>
-      <a href="https://davicjc.github.io/AudicomHub/"><b>Audicom Hub</b></a><br>
-      <sub>Portal interno: chamados, rondas e frota</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/AudicomTecnologia/"><img src="imagens/projetos/AudicomTecnologia.jpg" alt="Audicom Tecnologia"></a><br>
-      <a href="https://davicjc.github.io/AudicomTecnologia/"><b>Audicom Tecnologia</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Site, catálogo e painel de controle de acesso e ponto</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://audicomtelecom.com.br/"><img src="imagens/projetos/AudicomSite.jpg" alt="Audicom Telecom"></a><br>
-      <a href="https://audicomtelecom.com.br/"><b>Audicom Telecom</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Site institucional de internet fibra, em 3 idiomas</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/QRCodeAudicomSite/"><img src="https://raw.githubusercontent.com/Davicjc/QRCodeAudicomSite/main/.github/readme/preview.png" alt="Audicom · Links"></a><br>
-      <a href="https://davicjc.github.io/QRCodeAudicomSite/"><b>Audicom · Links</b></a><br>
-      <sub>Página dos QR Codes dos carros</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/AudicomSiteReuniao/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomSiteReuniao/main/.github/readme/preview.png" alt="Audicom · Sala de Reunião"></a><br>
-      <a href="https://davicjc.github.io/AudicomSiteReuniao/"><b>Audicom · Sala de Reunião</b></a><br>
-      <sub>Tela da TV com clima, Wi-Fi e clientes</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/BarbeariaSoares/"><img src="https://raw.githubusercontent.com/Davicjc/BarbeariaSoares/main/.github/readme/preview.png" alt="Barbearia Soares"></a><br>
-      <a href="https://davicjc.github.io/BarbeariaSoares/"><b>Barbearia Soares</b></a><br>
-      <sub>Agendamento online pelo WhatsApp</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><img src="imagens/projetos/BrunoFilhoPortifolio.jpg" alt="Bruno Filho"></a><br>
-      <a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><b>Bruno Filho</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Portfólio de marketing com vídeos</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/CapileSite/"><img src="https://raw.githubusercontent.com/Davicjc/CapileSite/main/.github/readme/preview.png" alt="Capilé Drinks"></a><br>
-      <a href="https://davicjc.github.io/CapileSite/"><b>Capilé Drinks</b></a><br>
-      <sub>Cardápio interativo e painel do bar</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="imagens/projetos/Site_Cooperbant.jpg" alt="Cooperbant"><br>
-      <b>Cooperbant</b><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Novo site e CMS de uma cooperativa de crédito</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/PortifolioDDWilber/"><img src="https://raw.githubusercontent.com/Davicjc/PortifolioDDWilber/main/.github/readme/preview.png" alt="Dennis Wilber"></a><br>
-      <a href="https://davicjc.github.io/PortifolioDDWilber/"><b>Dennis Wilber</b></a><br>
-      <sub>Portfólio de liderança em vendas</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/Pagina_Sanctorum/"><img src="imagens/projetos/Pagina_Sanctorum.jpg" alt="Grupo Sanctorum"></a><br>
-      <a href="https://davicjc.github.io/Pagina_Sanctorum/"><b>Grupo Sanctorum</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Landing page de contabilidade</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/InstitutoElora/"><img src="imagens/projetos/InstitutoElora.jpg" alt="Instituto Elora"></a><br>
-      <a href="https://davicjc.github.io/InstitutoElora/"><b>Instituto Elora</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Clínica de estética: site, área do cliente com chat e painel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/PatriciaMouraLashDesign/"><img src="https://raw.githubusercontent.com/Davicjc/PatriciaMouraLashDesign/main/.github/readme/preview.png" alt="Patricia Moura · Lash Designer"></a><br>
-      <a href="https://davicjc.github.io/PatriciaMouraLashDesign/"><b>Patricia Moura · Lash Designer</b></a><br>
-      <sub>Agendamento em tempo real com Firebase</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="imagens/projetos/PopManager.jpg" alt="POP Manager"><br>
-      <b>POP Manager</b><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Monitoramento dos POPs da rede de um provedor (FastAPI)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="imagens/projetos/Projeto_Rodrigo_QuizAlunos.jpg" alt="Quiz da Turma"><br>
-      <b>Quiz da Turma</b><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Quiz ao vivo: professor no PC, alunos no celular com PIN</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/ROAs-Monitor-Status/"><img src="https://raw.githubusercontent.com/Davicjc/ROAs-Monitor-Status/main/.github/readme/preview.png" alt="ROAs Monitor Status"></a><br>
-      <a href="https://davicjc.github.io/ROAs-Monitor-Status/"><b>ROAs Monitor Status</b></a><br>
-      <sub>Monitoramento RPKI do seu ASN com alertas no Telegram</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      
-      <a href="https://github.com/Davicjc/telemetry-portal"><b>Telemetry Portal</b></a><br>
-      <sub>OSPF e BFD de roteadores MikroTik num painel próprio</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://velocidadeteste.audicomtelecom.com.br/"><img src="imagens/projetos/VelocidadeTesteAudicom.jpg" alt="Teste de Velocidade Audicom"></a><br>
-      <a href="https://velocidadeteste.audicomtelecom.com.br/"><b>Teste de Velocidade Audicom</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>Speedtest próprio e agendamento de visita técnica</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><img src="imagens/projetos/Crm_Alpa-Solutions.jpg" alt="Valoria CRM"></a><br>
-      <a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><b>Valoria CRM</b></a><br>
-      <sub><code>🔒 Privado</code></sub><br>
-      <sub>CRM/ERP white-label para operações de campo</sub>
-    </td>
-    <td width="50%"></td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/AudicomHub/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomHub/main/.github/readme/preview.png" alt="Audicom Hub" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomHub/"><b>Audicom Hub</b></a><br>
+<sub>Portal interno: chamados, rondas e frota</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/AudicomTecnologia/"><img src="imagens/projetos/AudicomTecnologia.jpg" alt="Audicom Tecnologia" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomTecnologia/"><b>Audicom Tecnologia</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Site, catálogo e painel de controle de acesso e ponto</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://audicomtelecom.com.br/"><img src="imagens/projetos/AudicomSite.jpg" alt="Audicom Telecom" width="100%"></a><br>
+<a href="https://audicomtelecom.com.br/"><b>Audicom Telecom</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Site institucional de internet fibra, em 3 idiomas</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/QRCodeAudicomSite/"><img src="https://raw.githubusercontent.com/Davicjc/QRCodeAudicomSite/main/.github/readme/preview.png" alt="Audicom · Links" width="100%"></a><br>
+<a href="https://davicjc.github.io/QRCodeAudicomSite/"><b>Audicom · Links</b></a><br>
+<sub>Página dos QR Codes dos carros</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/AudicomSiteReuniao/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomSiteReuniao/main/.github/readme/preview.png" alt="Audicom · Sala de Reunião" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomSiteReuniao/"><b>Audicom · Sala de Reunião</b></a><br>
+<sub>Tela da TV com clima, Wi-Fi e clientes</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/BarbeariaSoares/"><img src="https://raw.githubusercontent.com/Davicjc/BarbeariaSoares/main/.github/readme/preview.png" alt="Barbearia Soares" width="100%"></a><br>
+<a href="https://davicjc.github.io/BarbeariaSoares/"><b>Barbearia Soares</b></a><br>
+<sub>Agendamento online pelo WhatsApp</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><img src="imagens/projetos/BrunoFilhoPortifolio.jpg" alt="Bruno Filho" width="100%"></a><br>
+<a href="https://davicjc.github.io/BrunoFilhoPortifolio/"><b>Bruno Filho</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Portfólio de marketing com vídeos</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/CapileSite/"><img src="https://raw.githubusercontent.com/Davicjc/CapileSite/main/.github/readme/preview.png" alt="Capilé Drinks" width="100%"></a><br>
+<a href="https://davicjc.github.io/CapileSite/"><b>Capilé Drinks</b></a><br>
+<sub>Cardápio interativo e painel do bar</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="imagens/projetos/Site_Cooperbant.jpg" alt="Cooperbant" width="100%"><br>
+<b>Cooperbant</b><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Novo site e CMS de uma cooperativa de crédito</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/PortifolioDDWilber/"><img src="https://raw.githubusercontent.com/Davicjc/PortifolioDDWilber/main/.github/readme/preview.png" alt="Dennis Wilber" width="100%"></a><br>
+<a href="https://davicjc.github.io/PortifolioDDWilber/"><b>Dennis Wilber</b></a><br>
+<sub>Portfólio de liderança em vendas</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/Pagina_Sanctorum/"><img src="imagens/projetos/Pagina_Sanctorum.jpg" alt="Grupo Sanctorum" width="100%"></a><br>
+<a href="https://davicjc.github.io/Pagina_Sanctorum/"><b>Grupo Sanctorum</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Landing page de contabilidade</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/InstitutoElora/"><img src="imagens/projetos/InstitutoElora.jpg" alt="Instituto Elora" width="100%"></a><br>
+<a href="https://davicjc.github.io/InstitutoElora/"><b>Instituto Elora</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Clínica de estética: site, área do cliente com chat e painel</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/PatriciaMouraLashDesign/"><img src="https://raw.githubusercontent.com/Davicjc/PatriciaMouraLashDesign/main/.github/readme/preview.png" alt="Patricia Moura · Lash Designer" width="100%"></a><br>
+<a href="https://davicjc.github.io/PatriciaMouraLashDesign/"><b>Patricia Moura · Lash Designer</b></a><br>
+<sub>Agendamento em tempo real com Firebase</sub>
+</td>
+<td width="50%" valign="top">
+<img src="imagens/projetos/PopManager.jpg" alt="POP Manager" width="100%"><br>
+<b>POP Manager</b><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Monitoramento dos POPs da rede de um provedor (FastAPI)</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="imagens/projetos/Projeto_Rodrigo_QuizAlunos.jpg" alt="Quiz da Turma" width="100%"><br>
+<b>Quiz da Turma</b><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Quiz ao vivo: professor no PC, alunos no celular com PIN</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/ROAs-Monitor-Status/"><img src="https://raw.githubusercontent.com/Davicjc/ROAs-Monitor-Status/main/.github/readme/preview.png" alt="ROAs Monitor Status" width="100%"></a><br>
+<a href="https://davicjc.github.io/ROAs-Monitor-Status/"><b>ROAs Monitor Status</b></a><br>
+<sub>Monitoramento RPKI do seu ASN com alertas no Telegram</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Davicjc/telemetry-portal"><img src="https://raw.githubusercontent.com/Davicjc/telemetry-portal/main/.github/readme/banner.png" alt="Telemetry Portal" width="100%"></a><br>
+<a href="https://github.com/Davicjc/telemetry-portal"><b>Telemetry Portal</b></a><br>
+<sub>OSPF e BFD de roteadores MikroTik num painel próprio</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://velocidadeteste.audicomtelecom.com.br/"><img src="imagens/projetos/VelocidadeTesteAudicom.jpg" alt="Teste de Velocidade Audicom" width="100%"></a><br>
+<a href="https://velocidadeteste.audicomtelecom.com.br/"><b>Teste de Velocidade Audicom</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>Speedtest próprio e agendamento de visita técnica</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><img src="imagens/projetos/Crm_Alpa-Solutions.jpg" alt="Valoria CRM" width="100%"></a><br>
+<a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><b>Valoria CRM</b></a><br>
+<sub><code>🔒 Privado</code></sub><br>
+<sub>CRM/ERP white-label para operações de campo</sub>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 Também em produção: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Teste de Velocidade Audicom](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)

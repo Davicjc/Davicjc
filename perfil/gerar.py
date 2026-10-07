@@ -311,7 +311,7 @@ def cartao(p, idioma):
     selo = f'{EMOJI[sit]} {SITUACAO[sit][1 if idioma == "pt" else 2]}'
     tag = ("🔒 Privado" if idioma == "pt" else "🔒 Private") if p["privado"] else ""
     texto = (p.get("proposito_en") or p["proposito"]) if idioma == "en" else p["proposito"]
-    figura = f'<img src="{img}" alt="{esc(p["titulo"])}">' if img else ""
+    figura = f'<img src="{img}" alt="{esc(p["titulo"])}" width="100%">' if img else ""
     if link and figura:
         figura = f'<a href="{link}">{figura}</a>'
     titulo = f'<b>{esc(p["titulo"])}</b>'
@@ -319,16 +319,23 @@ def cartao(p, idioma):
         titulo = f'<a href="{link}">{titulo}</a>'
     extra = f" · <code>{tag}</code>" if tag else ""
     linha_selo = f"{selo}{extra}" if sit else extra.lstrip(" ·")
-    linha_selo = f"      <sub>{linha_selo}</sub><br>\n" if linha_selo else ""
-    return (f'    <td width="50%" valign="top">\n      {figura}{"<br>" if figura else ""}\n      {titulo}<br>\n'
-            f'{linha_selo}      <sub>{esc(texto)}</sub>\n    </td>')
+    # sem linhas vazias nem recuo de 4+ espaços: senão o GitHub encerra o bloco HTML e mostra código cru
+    partes = ['<td width="50%" valign="top">']
+    if figura:
+        partes.append(figura + "<br>")
+    partes.append(titulo + "<br>")
+    if linha_selo:
+        partes.append(f"<sub>{linha_selo}</sub><br>")
+    partes.append(f"<sub>{esc(texto)}</sub>")
+    partes.append("</td>")
+    return "\n".join(partes)
 
 
 def grade(lista, idioma):
     linhas = ["<table>"]
     for i in range(0, len(lista), 2):
         par = lista[i:i + 2]
-        linhas.append("  <tr>\n" + "\n".join(cartao(p, idioma) for p in par) + ("\n    <td width=\"50%\"></td>" if len(par) == 1 else "") + "\n  </tr>")
+        linhas.append("<tr>\n" + "\n".join(cartao(p, idioma) for p in par) + ("\n<td width=\"50%\"></td>" if len(par) == 1 else "") + "\n</tr>")
     linhas.append("</table>")
     return "\n".join(linhas)
 
