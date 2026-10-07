@@ -263,6 +263,13 @@ I am a technology professional focused on **full-stack development**, software e
   </tr>
 </table>
 
+> [!NOTE]
+> **About the projects on this page**
+>
+> - Some have **not been launched** yet or are still in development — they may be prototypes, test builds or proposals that were never adopted.
+> - Company names, logos and trademarks shown in the images **belong to their respective owners**. They appear **for portfolio purposes only**, with no commercial use, and do not imply partnership, sponsorship or endorsement — in some cases the brand owner may not even be aware of this showcase.
+> - Are you responsible for one of these brands and would rather it not appear here? [Contact me](mailto:davicjc@gmail.com) and I'll remove it.
+
 Also in production: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Audicom Speed Test](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)
 
 *(Discover +20 other corporate projects and dashboards on my [Portfolio](https://davicjc.com))*
