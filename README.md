@@ -150,76 +150,81 @@
 <sub>Cardápio interativo e painel do bar</sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://davicjc.github.io/DiarioDoVerdao/"><img src="imagens/projetos/DiarioDoVerdao.jpg" alt="Diário do Verdão" width="100%"></a><br>
+<a href="https://davicjc.github.io/DiarioDoVerdao/"><b>Diário do Verdão</b></a><br>
+<sub>🛠️ Em desenvolvimento · <code>🔒 Privado</code></sub><br>
+<sub>Histórias e novidades do Uberlândia Esporte Clube, com abertura 3D e painel</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <img src="imagens/projetos/Site_Cooperbant.jpg" alt="Cooperbant" width="100%"><br>
 <b>Cooperbant</b><br>
 <sub>🛠️ Em desenvolvimento · <code>🔒 Privado</code></sub><br>
 <sub>Novo site e CMS de uma cooperativa de crédito</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://davicjc.github.io/PortifolioDDWilber/"><img src="https://raw.githubusercontent.com/Davicjc/PortifolioDDWilber/main/.github/readme/preview.png" alt="Dennis Wilber" width="100%"></a><br>
 <a href="https://davicjc.github.io/PortifolioDDWilber/"><b>Dennis Wilber</b></a><br>
 <sub>✅ No ar</sub><br>
 <sub>Portfólio de liderança em vendas</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://davicjc.github.io/Pagina_Sanctorum/"><img src="imagens/projetos/Pagina_Sanctorum.jpg" alt="Grupo Sanctorum" width="100%"></a><br>
 <a href="https://davicjc.github.io/Pagina_Sanctorum/"><b>Grupo Sanctorum</b></a><br>
 <sub>👀 Aguardando o cliente · <code>🔒 Privado</code></sub><br>
 <sub>Landing page de contabilidade</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://davicjc.github.io/InstitutoElora/"><img src="imagens/projetos/InstitutoElora.jpg" alt="Instituto Elora" width="100%"></a><br>
 <a href="https://davicjc.github.io/InstitutoElora/"><b>Instituto Elora</b></a><br>
 <sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>Clínica de estética: site, área do cliente com chat e painel</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="imagens/projetos/PopManager.jpg" alt="POP Manager" width="100%"><br>
 <b>POP Manager</b><br>
 <sub>🛠️ Em desenvolvimento · <code>🔒 Privado</code></sub><br>
 <sub>Monitoramento dos POPs da rede de um provedor (FastAPI)</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="imagens/projetos/Projeto_Rodrigo_QuizAlunos.jpg" alt="Quiz da Turma" width="100%"><br>
 <b>Quiz da Turma</b><br>
 <sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>Quiz ao vivo: professor no PC, alunos no celular com PIN</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://davicjc.github.io/ROAs-Monitor-Status/"><img src="https://raw.githubusercontent.com/Davicjc/ROAs-Monitor-Status/main/.github/readme/preview.png" alt="ROAs Monitor Status" width="100%"></a><br>
 <a href="https://davicjc.github.io/ROAs-Monitor-Status/"><b>ROAs Monitor Status</b></a><br>
 <sub>✅ No ar</sub><br>
 <sub>Monitoramento RPKI do seu ASN com alertas no Telegram</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Davicjc/telemetry-portal"><img src="https://raw.githubusercontent.com/Davicjc/telemetry-portal/main/.github/readme/banner.png" alt="Telemetry Portal" width="100%"></a><br>
 <a href="https://github.com/Davicjc/telemetry-portal"><b>Telemetry Portal</b></a><br>
 <sub>🛠️ Em desenvolvimento</sub><br>
 <sub>OSPF e BFD de roteadores MikroTik num painel próprio</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://velocidadeteste.audicomtelecom.com.br/"><img src="imagens/projetos/VelocidadeTesteAudicom.jpg" alt="Teste de Velocidade Audicom" width="100%"></a><br>
 <a href="https://velocidadeteste.audicomtelecom.com.br/"><b>Teste de Velocidade Audicom</b></a><br>
 <sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>Speedtest próprio e agendamento de visita técnica</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><img src="imagens/projetos/Crm_Alpa-Solutions.jpg" alt="Valoria CRM" width="100%"></a><br>
 <a href="https://davicjc.github.io/Crm_Alpa-Solutions/"><b>Valoria CRM</b></a><br>
 <sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>CRM/ERP white-label para operações de campo</sub>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 

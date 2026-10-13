@@ -11,7 +11,7 @@
 
 Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve** e **em que pé está**. Os privados (🔒) aparecem com nome e propósito, mas o código continua fechado.
 
-*Atualizado em 07/10/2026 · 39 projetos · 20 privados · 19 públicos*
+*Atualizado em 07/10/2026 · 40 projetos · 21 privados · 19 públicos*
 
 ## Legenda
 
@@ -31,7 +31,7 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 
 ## Índice
 
-- [Para clientes](#para-clientes) — 10
+- [Para clientes](#para-clientes) — 11
 - [Para a empresa (Audicom)](#para-a-empresa-audicom) — 14
 - [Projetos pessoais](#projetos-pessoais) — 13
 - [Faculdade e estudo](#faculdade-e-estudo) — 2
@@ -43,6 +43,7 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 | 🌐 | **Barbearia Soares** | Agendamento online pelo WhatsApp<br><sub>HTML5 · CSS3 · JavaScript</sub> | 👀 Aguardando o cliente | 2026 | [site](https://davicjc.github.io/BarbeariaSoares/) · [código](https://github.com/Davicjc/BarbeariaSoares) |
 | 🔒 | **Bruno Filho** | Portfólio de marketing com vídeos<br><sub>HTML5 · CSS3 · JavaScript</sub> | 🛑 Abandonado | 2026 | [site](https://davicjc.github.io/BrunoFilhoPortifolio/) |
 | 🌐 | **Capilé Drinks** | Cardápio interativo e painel do bar<br><sub>HTML5 · CSS3 · JavaScript</sub> | 👀 Aguardando o cliente | 2026 | [site](https://davicjc.github.io/CapileSite/) · [código](https://github.com/Davicjc/CapileSite) |
+| 🔒 | **Diário do Verdão**<br><sub>Uberlândia Esporte Clube</sub> | Histórias e novidades do Uberlândia Esporte Clube, com abertura 3D e painel<br><sub>HTML5 · CSS3 · JavaScript · Three.js</sub> | 🛠️ Em desenvolvimento | 2026 | [site](https://davicjc.github.io/DiarioDoVerdao/) |
 | 🔒 | **Cooperbant** | Novo site e CMS de uma cooperativa de crédito<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | 🛠️ Em desenvolvimento | 2026 | — |
 | 🌐 | **Dennis Wilber** | Portfólio de liderança em vendas<br><sub>HTML5 · CSS3 · JavaScript</sub> | ✅ No ar | 2025 | [site](https://davicjc.github.io/PortifolioDDWilber/) · [código](https://github.com/Davicjc/PortifolioDDWilber) |
 | 🔒 | **Grupo Sanctorum** | Landing page de contabilidade<br><sub>HTML5 · CSS3 · JavaScript</sub> | 👀 Aguardando o cliente | 2026 | [site](https://davicjc.github.io/Pagina_Sanctorum/) |

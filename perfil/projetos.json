@@ -288,6 +288,31 @@
    "atualizado": "2026-10-07"
   },
   {
+   "repo": "DiarioDoVerdao",
+   "titulo": "Diário do Verdão",
+   "privado": true,
+   "fork": false,
+   "origem": "cliente",
+   "cliente": "Uberlândia Esporte Clube",
+   "situacao": "desenvolvimento",
+   "ano": "2026",
+   "proposito": "Histórias e novidades do Uberlândia Esporte Clube, com abertura 3D e painel",
+   "proposito_en": "Stories and news of Uberlândia Esporte Clube, with a 3D opening and admin panel",
+   "perfil": "destaque",
+   "obs": "",
+   "stack": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Three.js",
+    "Firebase",
+    "Cloudflare"
+   ],
+   "site": "https://davicjc.github.io/DiarioDoVerdao/",
+   "imagem": "https://raw.githubusercontent.com/Davicjc/DiarioDoVerdao/main/.github/readme/preview.png",
+   "atualizado": "2026-10-13"
+  },
+  {
    "repo": "Site_Cooperbant",
    "titulo": "Cooperbant",
    "privado": true,
