@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/arvore-escuro.svg">
-    <img src="perfil/svg/arvore-claro.svg" alt="Árvore de projetos do Davi Castro" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/arvore-escuro.svg?v=d8ea10ed">
+    <img src="perfil/svg/arvore-claro.svg?v=84ae5126" alt="Árvore de projetos do Davi Castro" width="100%">
   </picture>
 </p>
 
@@ -11,7 +11,7 @@
 
 Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve** e **em que pé está**. Os privados (🔒) aparecem com nome e propósito, mas o código continua fechado.
 
-*Atualizado em 04/11/2026 · 46 projetos · 23 privados · 23 públicos*
+*Atualizado em 04/11/2026 · 45 projetos · 23 privados · 22 públicos*
 
 ## Legenda
 
@@ -33,7 +33,7 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 
 - [Para clientes](#para-clientes) — 13
 - [Para a empresa (Audicom)](#para-a-empresa-audicom) — 14
-- [Projetos pessoais](#projetos-pessoais) — 17
+- [Projetos pessoais](#projetos-pessoais) — 16
 - [Faculdade e estudo](#faculdade-e-estudo) — 2
 
 ## Para clientes
@@ -89,7 +89,6 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 | 🔒 | **Hub CJC** | Hub CJC: minha central pessoal de projetos, tarefas e notas de desenvolvimento — React, TypeScript, Vite e Firebase.<br><sub>React · TypeScript · Vite · Tailwind CSS</sub> | ✅ No ar | 2026 | — |
 | 🔒 | **NexusAtlas** | SaaS de ordens de serviço em campo: agenda, rotas e mapa em tempo real<br><sub>HTML5 · JavaScript · Tailwind CSS · Firebase</sub> | ✅ No ar | 2026 | [site](https://nexusatlas.com.br/) |
 | 🌐 | **claude-agy** | Plugin do Claude Code: Claude e agy (Gemini) trabalhando juntos, com revisão cruzada<br><sub>Shell · Claude Code</sub> | ✅ No ar | 2026 | [código](https://github.com/Davicjc/claude-agy) |
-| 🌐 | **FXSound for Linux (fork)** | Equalizador e efeitos para todo o som do Linux: bandeja, 4 idiomas e janela leve — enviado ao autor no PR #515<br><sub>Rust · React · Tauri</sub> | ✅ No ar | 2026 | [código](https://github.com/Davicjc/FXSound_For_Linux) |
 | 🔒 | **Painel Remoto CJC** | Painel remoto para administrar meus servidores de jogo (Minecraft e Terraria) de fora da rede local, com login e fila de comandos no Firebase.<br><sub>HTML5 · JavaScript · Firebase</sub> | ✅ No ar | 2026 | — |
 | 🔒 | **Web pra Você** | Web pra Você (W.P.V.): site de venda de sites personalizados, com serviços, planos, equipe e 6 sites de exemplo completos.<br><sub>HTML5 · CSS3 · JavaScript</sub> | 🛑 Abandonado | 2025 | — |
 | 🌐 | **Driver MS912x (fork)** | Driver Linux para adaptadores de vídeo USB MacroSilicon, sem travar o desktop<br><sub>C · Linux</sub> | ✅ No ar | 2026 | [código](https://github.com/Davicjc/MacroSilicon-USBDisplay_Adapters-MS912) |

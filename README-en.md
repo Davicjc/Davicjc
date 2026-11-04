@@ -6,8 +6,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/topo-en-escuro.svg">
-  <img src="perfil/svg/topo-en-claro.svg" alt="Davi Castro — full-stack developer and network infrastructure" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/topo-en-escuro.svg?v=e47de1ce">
+  <img src="perfil/svg/topo-en-claro.svg?v=d9b561f3" alt="Davi Castro — full-stack developer and network infrastructure" width="100%">
 </picture>
 </p>
 
@@ -20,8 +20,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/numeros-en-escuro.svg">
-  <img src="perfil/svg/numeros-en-claro.svg" alt="Numbers" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/numeros-en-escuro.svg?v=d33dd279">
+  <img src="perfil/svg/numeros-en-claro.svg?v=87426425" alt="Numbers" width="100%">
 </picture>
 
 ---
@@ -31,8 +31,8 @@
 <sub>Each branch is a kind of project; the bar shows where they stand.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-en-escuro.svg">
-  <img src="perfil/svg/mapa-en-claro.svg" alt="Project map" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-en-escuro.svg?v=fd722e99">
+  <img src="perfil/svg/mapa-en-claro.svg?v=20892555" alt="Project map" width="100%">
 </picture>
 
 <p align="center"><a href="PROJETOS.md"><b>See the full tree — every project, what it is for and where it stands →</b></a></p>
@@ -98,14 +98,6 @@
 <a href="https://github.com/Davicjc/claude-agy"><b>claude-agy</b></a><br>
 <sub>✅ Live</sub><br>
 <sub>Claude Code plugin: Claude and agy (Gemini) working together, with cross-review</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-<a href="https://github.com/Davicjc/FXSound_For_Linux"><img src="https://raw.githubusercontent.com/Davicjc/FXSound_For_Linux/main/.github/readme/banner.png" alt="FXSound for Linux (fork)" width="50%"></a><br>
-<a href="https://github.com/Davicjc/FXSound_For_Linux"><b>FXSound for Linux (fork)</b></a><br>
-<sub>✅ Live</sub><br>
-<sub>System-wide equalizer and effects for Linux: tray, 4 languages and a light window — sent upstream as PR #515</sub>
 </td>
 </tr>
 </table>

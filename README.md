@@ -6,8 +6,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/topo-escuro.svg">
-  <img src="perfil/svg/topo-claro.svg" alt="Davi Castro — desenvolvedor full stack e infraestrutura de redes" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/topo-escuro.svg?v=50265af4">
+  <img src="perfil/svg/topo-claro.svg?v=b0027e03" alt="Davi Castro — desenvolvedor full stack e infraestrutura de redes" width="100%">
 </picture>
 </p>
 
@@ -20,8 +20,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/numeros-escuro.svg">
-  <img src="perfil/svg/numeros-claro.svg" alt="Números" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/numeros-escuro.svg?v=9c913228">
+  <img src="perfil/svg/numeros-claro.svg?v=219cd4ff" alt="Números" width="100%">
 </picture>
 
 ---
@@ -31,8 +31,8 @@
 <sub>Cada galho é um tipo de projeto; a barra mostra em que pé eles estão.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-escuro.svg">
-  <img src="perfil/svg/mapa-claro.svg" alt="Mapa dos projetos" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-escuro.svg?v=dc49b63b">
+  <img src="perfil/svg/mapa-claro.svg?v=94971a09" alt="Mapa dos projetos" width="100%">
 </picture>
 
 <p align="center"><a href="PROJETOS.md"><b>Ver a árvore completa — todos os projetos, para que servem e a situação de cada um →</b></a></p>
@@ -98,14 +98,6 @@
 <a href="https://github.com/Davicjc/claude-agy"><b>claude-agy</b></a><br>
 <sub>✅ No ar</sub><br>
 <sub>Plugin do Claude Code: Claude e agy (Gemini) trabalhando juntos, com revisão cruzada</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-<a href="https://github.com/Davicjc/FXSound_For_Linux"><img src="https://raw.githubusercontent.com/Davicjc/FXSound_For_Linux/main/.github/readme/banner.png" alt="FXSound for Linux (fork)" width="50%"></a><br>
-<a href="https://github.com/Davicjc/FXSound_For_Linux"><b>FXSound for Linux (fork)</b></a><br>
-<sub>✅ No ar</sub><br>
-<sub>Equalizador e efeitos para todo o som do Linux: bandeja, 4 idiomas e janela leve — enviado ao autor no PR #515</sub>
 </td>
 </tr>
 </table>

@@ -10,7 +10,7 @@ Saídas:
 Para atualizar o perfil: edite perfil/projetos.json (situação, propósito, destaque...) e rode o script —
 ou só faça o commit: a Action .github/workflows/perfil.yml roda ele sozinha.
 """
-import html, json, math, os, re
+import hashlib, html, json, math, os, re
 from datetime import date
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -297,9 +297,16 @@ def arvore(tema, idioma):
 
 
 # ------------------------------------------------------------------ markdown
+def versao(nome):
+    """Versão do SVG tirada do conteúdo: o GitHub guarda imagens em cache pelo
+    endereço, então números novos precisam de um endereço novo para aparecer."""
+    return hashlib.sha1(open(os.path.join(SVG, nome), "rb").read()).hexdigest()[:8]
+
+
 def imagem_tema(base, alt, larg="100%"):
-    return (f'<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/{base}-escuro.svg">\n'
-            f'  <img src="perfil/svg/{base}-claro.svg" alt="{esc(alt)}" width="{larg}">\n</picture>')
+    escuro, claro = f"{base}-escuro.svg", f"{base}-claro.svg"
+    return (f'<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/{escuro}?v={versao(escuro)}">\n'
+            f'  <img src="perfil/svg/{claro}?v={versao(claro)}" alt="{esc(alt)}" width="{larg}">\n</picture>')
 
 
 def cartao(p, idioma, inteiro=False):

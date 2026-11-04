@@ -684,7 +684,7 @@
    "ano": "2026",
    "proposito": "Equalizador e efeitos para todo o som do Linux: bandeja, 4 idiomas e janela leve — enviado ao autor no PR #515",
    "proposito_en": "System-wide equalizer and effects for Linux: tray, 4 languages and a light window — sent upstream as PR #515",
-   "perfil": "destaque",
+   "perfil": "ocultar",
    "obs": "",
    "stack": [
     "Rust",
