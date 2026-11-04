@@ -31,8 +31,8 @@
 <sub>Cada galho é um tipo de projeto; a barra mostra em que pé eles estão.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-escuro.svg?v=dc49b63b">
-  <img src="perfil/svg/mapa-claro.svg?v=94971a09" alt="Mapa dos projetos" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-escuro.svg?v=820bd4a8">
+  <img src="perfil/svg/mapa-claro.svg?v=f368afc7" alt="Mapa dos projetos" width="100%">
 </picture>
 
 <p align="center"><a href="PROJETOS.md"><b>Ver a árvore completa — todos os projetos, para que servem e a situação de cada um →</b></a></p>
@@ -107,9 +107,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://davicjc.github.io/AudicomHub/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomHub/main/.github/readme/preview.png" alt="Audicom Hub" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomHub/"><img src="imagens/projetos/AudicomHub.jpg" alt="Audicom Hub" width="100%"></a><br>
 <a href="https://davicjc.github.io/AudicomHub/"><b>Audicom Hub</b></a><br>
-<sub>✅ No ar</sub><br>
+<sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>Portal interno: chamados, rondas e frota</sub>
 </td>
 <td width="50%" valign="top">
@@ -127,17 +127,17 @@
 <sub>Site institucional de internet fibra, em 3 idiomas</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://davicjc.github.io/QRCodeAudicomSite/"><img src="https://raw.githubusercontent.com/Davicjc/QRCodeAudicomSite/main/.github/readme/preview.png" alt="Audicom · Links" width="100%"></a><br>
+<a href="https://davicjc.github.io/QRCodeAudicomSite/"><img src="imagens/projetos/QRCodeAudicomSite.jpg" alt="Audicom · Links" width="100%"></a><br>
 <a href="https://davicjc.github.io/QRCodeAudicomSite/"><b>Audicom · Links</b></a><br>
-<sub>✅ No ar</sub><br>
+<sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>Página dos QR Codes dos carros</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://davicjc.github.io/AudicomSiteReuniao/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomSiteReuniao/main/.github/readme/preview.png" alt="Audicom · Sala de Reunião" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomSiteReuniao/"><img src="imagens/projetos/AudicomSiteReuniao.jpg" alt="Audicom · Sala de Reunião" width="100%"></a><br>
 <a href="https://davicjc.github.io/AudicomSiteReuniao/"><b>Audicom · Sala de Reunião</b></a><br>
-<sub>✅ No ar</sub><br>
+<sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>Tela da TV com clima, Wi-Fi e clientes</sub>
 </td>
 <td width="50%" valign="top">

@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/arvore-escuro.svg?v=d8ea10ed">
-    <img src="perfil/svg/arvore-claro.svg?v=84ae5126" alt="Árvore de projetos do Davi Castro" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/arvore-escuro.svg?v=19420fcd">
+    <img src="perfil/svg/arvore-claro.svg?v=3d397e47" alt="Árvore de projetos do Davi Castro" width="100%">
   </picture>
 </p>
 
@@ -11,7 +11,7 @@
 
 Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve** e **em que pé está**. Os privados (🔒) aparecem com nome e propósito, mas o código continua fechado.
 
-*Atualizado em 04/11/2026 · 45 projetos · 23 privados · 22 públicos*
+*Atualizado em 04/11/2026 · 45 projetos · 27 privados · 18 públicos*
 
 ## Legenda
 
@@ -58,14 +58,14 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 
 | | Projeto | Para que serve | Situação | Ano | Links |
 |---|---|---|---|---|---|
-| 🌐 | **Acesso Audicom**<br><sub>Audicom Telecom</sub> | Controle de acesso de visitantes do Parque Audicom: cadastro web com QR Code, receptor Java e Raspberry Pi Pico liberando a catraca.<br><sub>HTML5 · CSS3 · JavaScript · Python</sub> | 🛑 Abandonado | 2025 | [site](https://davicjc.github.io/AcessoAudicom/) · [código](https://github.com/Davicjc/AcessoAudicom) |
+| 🔒 | **Acesso Audicom**<br><sub>Audicom Telecom</sub> | Controle de acesso de visitantes do Parque Audicom: cadastro web com QR Code, receptor Java e Raspberry Pi Pico liberando a catraca.<br><sub>HTML5 · CSS3 · JavaScript · Python</sub> | 🛑 Abandonado | 2025 | [site](https://davicjc.github.io/AcessoAudicom/) |
 | 🌐 | **Akvorado (fork)**<br><sub>Audicom Telecom</sub> | Fork do Akvorado (coletor e visualizador de fluxos de rede) adaptado para a rede da Audicom. | 🛠️ Em desenvolvimento | 2026 | [código](https://github.com/Davicjc/akvorado_cjc) |
 | 🔒 | **App Audicom**<br><sub>Audicom Telecom</sub> | App instalável (PWA) da Audicom Telecom: login do cliente, central e teste de velocidade num só lugar.<br><sub>HTML5 · CSS3 · JavaScript · PWA</sub> | 🛠️ Em desenvolvimento | 2025 | [site](https://davicjc.github.io/AppAudicom/) |
-| 🌐 | **Audicom Hub**<br><sub>Audicom Telecom</sub> | Portal interno: chamados, rondas e frota<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/AudicomHub/) · [código](https://github.com/Davicjc/AudicomHub) |
+| 🔒 | **Audicom Hub**<br><sub>Audicom Telecom</sub> | Portal interno: chamados, rondas e frota<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/AudicomHub/) |
 | 🔒 | **Audicom Tecnologia** | Site, catálogo e painel de controle de acesso e ponto<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | ✅ No ar | 2025 | [site](https://davicjc.github.io/AudicomTecnologia/) |
 | 🔒 | **Audicom Telecom** | Site institucional de internet fibra, em 3 idiomas<br><sub>HTML5 · CSS3 · JavaScript</sub> | ✅ No ar | 2025 | [site](https://audicomtelecom.com.br/) |
-| 🌐 | **Audicom · Links**<br><sub>Audicom Telecom</sub> | Página dos QR Codes dos carros<br><sub>HTML5 · CSS3 · JavaScript</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/QRCodeAudicomSite/) · [código](https://github.com/Davicjc/QRCodeAudicomSite) |
-| 🌐 | **Audicom · Sala de Reunião**<br><sub>Audicom Telecom</sub> | Tela da TV com clima, Wi-Fi e clientes<br><sub>HTML5 · CSS3 · JavaScript</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/AudicomSiteReuniao/) · [código](https://github.com/Davicjc/AudicomSiteReuniao) |
+| 🔒 | **Audicom · Links**<br><sub>Audicom Telecom</sub> | Página dos QR Codes dos carros<br><sub>HTML5 · CSS3 · JavaScript</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/QRCodeAudicomSite/) |
+| 🔒 | **Audicom · Sala de Reunião**<br><sub>Audicom Telecom</sub> | Tela da TV com clima, Wi-Fi e clientes<br><sub>HTML5 · CSS3 · JavaScript</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/AudicomSiteReuniao/) |
 | 🔒 | **Audinha**<br><sub>Audicom</sub> | Audinha: extensão de navegador da Audicom com o chat de IA interno em qualquer página e exportação/classificação das conversas de atendimento do James.<br><sub>JavaScript · Chrome Extension</sub> | 🛑 Abandonado | 2026 | — |
 | 🔒 | **Pedidos Audicom**<br><sub>Audicom Telecom</sub> | Portal de pedidos de internet da Audicom Telecom: o cliente pede, assina digitalmente e acompanha; a equipe gerencia em tempo real.<br><sub>HTML5 · JavaScript · Firebase</sub> | 🛠️ Em desenvolvimento | 2026 | [site](https://davicjc.github.io/PedidosAudicom/) |
 | 🔒 | **POP Manager**<br><sub>Audicom Telecom</sub> | Monitoramento dos POPs da rede de um provedor (FastAPI)<br><sub>Python · FastAPI · PostgreSQL · SQLite</sub> | 🛠️ Em desenvolvimento | 2026 | — |

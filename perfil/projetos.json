@@ -4,7 +4,7 @@
   {
    "repo": "AcessoAudicom",
    "titulo": "Acesso Audicom",
-   "privado": false,
+   "privado": true,
    "fork": false,
    "origem": "empresa",
    "cliente": "Audicom Telecom",
@@ -70,7 +70,7 @@
   {
    "repo": "AudicomHub",
    "titulo": "Audicom Hub",
-   "privado": false,
+   "privado": true,
    "fork": false,
    "origem": "empresa",
    "cliente": "Audicom Telecom",
@@ -138,7 +138,7 @@
   {
    "repo": "QRCodeAudicomSite",
    "titulo": "Audicom · Links",
-   "privado": false,
+   "privado": true,
    "fork": false,
    "origem": "empresa",
    "cliente": "Audicom Telecom",
@@ -160,7 +160,7 @@
   {
    "repo": "AudicomSiteReuniao",
    "titulo": "Audicom · Sala de Reunião",
-   "privado": false,
+   "privado": true,
    "fork": false,
    "origem": "empresa",
    "cliente": "Audicom Telecom",

@@ -31,8 +31,8 @@
 <sub>Each branch is a kind of project; the bar shows where they stand.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-en-escuro.svg?v=fd722e99">
-  <img src="perfil/svg/mapa-en-claro.svg?v=20892555" alt="Project map" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="perfil/svg/mapa-en-escuro.svg?v=5a57b3ef">
+  <img src="perfil/svg/mapa-en-claro.svg?v=5a8b29df" alt="Project map" width="100%">
 </picture>
 
 <p align="center"><a href="PROJETOS.md"><b>See the full tree — every project, what it is for and where it stands →</b></a></p>
@@ -107,9 +107,9 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://davicjc.github.io/AudicomHub/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomHub/main/.github/readme/preview.png" alt="Audicom Hub" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomHub/"><img src="imagens/projetos/AudicomHub.jpg" alt="Audicom Hub" width="100%"></a><br>
 <a href="https://davicjc.github.io/AudicomHub/"><b>Audicom Hub</b></a><br>
-<sub>✅ Live</sub><br>
+<sub>✅ Live · <code>🔒 Private</code></sub><br>
 <sub>Internal portal: tickets, patrols and fleet</sub>
 </td>
 <td width="50%" valign="top">
@@ -127,17 +127,17 @@
 <sub>Fiber ISP corporate website, in 3 languages</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://davicjc.github.io/QRCodeAudicomSite/"><img src="https://raw.githubusercontent.com/Davicjc/QRCodeAudicomSite/main/.github/readme/preview.png" alt="Audicom · Links" width="100%"></a><br>
+<a href="https://davicjc.github.io/QRCodeAudicomSite/"><img src="imagens/projetos/QRCodeAudicomSite.jpg" alt="Audicom · Links" width="100%"></a><br>
 <a href="https://davicjc.github.io/QRCodeAudicomSite/"><b>Audicom · Links</b></a><br>
-<sub>✅ Live</sub><br>
+<sub>✅ Live · <code>🔒 Private</code></sub><br>
 <sub>Landing page for the vehicle QR Codes</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://davicjc.github.io/AudicomSiteReuniao/"><img src="https://raw.githubusercontent.com/Davicjc/AudicomSiteReuniao/main/.github/readme/preview.png" alt="Audicom · Sala de Reunião" width="100%"></a><br>
+<a href="https://davicjc.github.io/AudicomSiteReuniao/"><img src="imagens/projetos/AudicomSiteReuniao.jpg" alt="Audicom · Sala de Reunião" width="100%"></a><br>
 <a href="https://davicjc.github.io/AudicomSiteReuniao/"><b>Audicom · Sala de Reunião</b></a><br>
-<sub>✅ Live</sub><br>
+<sub>✅ Live · <code>🔒 Private</code></sub><br>
 <sub>Meeting-room TV screen</sub>
 </td>
 <td width="50%" valign="top">
