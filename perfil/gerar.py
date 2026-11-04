@@ -302,7 +302,7 @@ def imagem_tema(base, alt, larg="100%"):
             f'  <img src="perfil/svg/{base}-claro.svg" alt="{esc(alt)}" width="{larg}">\n</picture>')
 
 
-def cartao(p, idioma):
+def cartao(p, idioma, inteiro=False):
     if p["privado"]:
         arq = os.path.join(RAIZ, "imagens", "projetos", p["repo"] + ".jpg")
         img = f"imagens/projetos/{p['repo']}.jpg" if os.path.exists(arq) else None
@@ -313,7 +313,7 @@ def cartao(p, idioma):
     selo = f'{EMOJI[sit]} {SITUACAO[sit][1 if idioma == "pt" else 2]}'
     tag = ("🔒 Privado" if idioma == "pt" else "🔒 Private") if p["privado"] else ""
     texto = (p.get("proposito_en") or p["proposito"]) if idioma == "en" else p["proposito"]
-    figura = f'<img src="{img}" alt="{esc(p["titulo"])}" width="100%">' if img else ""
+    figura = f'<img src="{img}" alt="{esc(p["titulo"])}" width="{"50%" if inteiro else "100%"}">' if img else ""
     if link and figura:
         figura = f'<a href="{link}">{figura}</a>'
     titulo = f'<b>{esc(p["titulo"])}</b>'
@@ -322,7 +322,8 @@ def cartao(p, idioma):
     extra = f" · <code>{tag}</code>" if tag else ""
     linha_selo = f"{selo}{extra}" if sit else extra.lstrip(" ·")
     # sem linhas vazias nem recuo de 4+ espaços: senão o GitHub encerra o bloco HTML e mostra código cru
-    partes = ['<td width="50%" valign="top">']
+    # sozinho na última linha (quantidade ímpar): ocupa a linha inteira, centralizado, sem buraco ao lado
+    partes = ['<td colspan="2" align="center" valign="top">' if inteiro else '<td width="50%" valign="top">']
     if figura:
         partes.append(figura + "<br>")
     partes.append(titulo + "<br>")
@@ -337,7 +338,7 @@ def grade(lista, idioma):
     linhas = ["<table>"]
     for i in range(0, len(lista), 2):
         par = lista[i:i + 2]
-        linhas.append("<tr>\n" + "\n".join(cartao(p, idioma) for p in par) + ("\n<td width=\"50%\"></td>" if len(par) == 1 else "") + "\n</tr>")
+        linhas.append("<tr>\n" + "\n".join(cartao(p, idioma, inteiro=len(par) == 1) for p in par) + "\n</tr>")
     linhas.append("</table>")
     return "\n".join(linhas)
 

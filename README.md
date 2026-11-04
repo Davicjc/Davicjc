@@ -66,7 +66,7 @@
 <sub>Letras traduzidas em tempo real que escutam a música (Shazam + Whisper)</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Davicjc/FaceSafety"><img src="https://raw.githubusercontent.com/Davicjc/FaceSafety/main/.github/readme/telas.png" alt="Face Safety" width="100%"></a><br>
+<a href="https://github.com/Davicjc/FaceSafety"><img src="https://raw.githubusercontent.com/Davicjc/FaceSafety/main/.github/readme/banner.png" alt="Face Safety" width="100%"></a><br>
 <a href="https://github.com/Davicjc/FaceSafety"><b>Face Safety</b></a><br>
 <sub>🗄️ Histórico</sub><br>
 <sub>Reconhecimento facial para controle de acesso — 🥇 1º lugar acadêmico</sub>
@@ -93,7 +93,20 @@
 <sub>✅ No ar · <code>🔒 Privado</code></sub><br>
 <sub>SaaS de ordens de serviço em campo: agenda, rotas e mapa em tempo real</sub>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://github.com/Davicjc/claude-agy"><img src="https://raw.githubusercontent.com/Davicjc/claude-agy/main/.github/readme/banner.png" alt="claude-agy" width="100%"></a><br>
+<a href="https://github.com/Davicjc/claude-agy"><b>claude-agy</b></a><br>
+<sub>✅ No ar</sub><br>
+<sub>Plugin do Claude Code: Claude e agy (Gemini) trabalhando juntos, com revisão cruzada</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="https://github.com/Davicjc/FXSound_For_Linux"><img src="https://raw.githubusercontent.com/Davicjc/FXSound_For_Linux/main/.github/readme/banner.png" alt="FXSound for Linux (fork)" width="50%"></a><br>
+<a href="https://github.com/Davicjc/FXSound_For_Linux"><b>FXSound for Linux (fork)</b></a><br>
+<sub>✅ No ar</sub><br>
+<sub>Equalizador e efeitos para todo o som do Linux: bandeja, 4 idiomas e janela leve — enviado ao autor no PR #515</sub>
+</td>
 </tr>
 </table>
 
@@ -226,6 +239,20 @@
 <sub>CRM/ERP white-label para operações de campo</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/SocioVerdao/"><img src="imagens/projetos/SocioVerdao.jpg" alt="Sócio Verdão" width="100%"></a><br>
+<a href="https://davicjc.github.io/SocioVerdao/"><b>Sócio Verdão</b></a><br>
+<sub>🛠️ Em desenvolvimento · <code>🔒 Privado</code></sub><br>
+<sub>Portal do sócio do UEC: carteirinha, futebol, contas abertas, votos e Vila Olímpica</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://davicjc.github.io/UberlandiaEsporte/"><img src="imagens/projetos/UberlandiaEsporte.jpg" alt="Uberlândia Esporte Clube" width="100%"></a><br>
+<a href="https://davicjc.github.io/UberlandiaEsporte/"><b>Uberlândia Esporte Clube</b></a><br>
+<sub>🛠️ Em desenvolvimento · <code>🔒 Privado</code></sub><br>
+<sub>Página inicial do clube: telão de LED, títulos, elenco no campo, agenda e painel</sub>
+</td>
+</tr>
 </table>
 
 Também em produção: [Web pra Você](https://webpravoce.shop/) · [Audicom Telecom](https://audicomtelecom.com.br/) · [Teste de Velocidade Audicom](https://velocidadeteste.audicomtelecom.com.br/) · [NexusAtlas](https://nexusatlas.com.br/)
@@ -331,4 +358,4 @@ Acumulo conhecimento formal através de extensas capacitações, com maior foco 
   <p>Feito com paixão pela tecnologia ☕ por Davi Castro Jorge da Costa.</p>
 </div>
 
-<p align="center"><sub>Atualizado em 07/10/2026 · este perfil é gerado por <a href="perfil/gerar.py"><code>perfil/gerar.py</code></a> a partir de <a href="perfil/projetos.json"><code>projetos.json</code></a></sub></p>
+<p align="center"><sub>Atualizado em 04/11/2026 · este perfil é gerado por <a href="perfil/gerar.py"><code>perfil/gerar.py</code></a> a partir de <a href="perfil/projetos.json"><code>projetos.json</code></a></sub></p>

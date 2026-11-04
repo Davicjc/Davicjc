@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-07",
+ "atualizado": "2026-11-04",
  "projetos": [
   {
    "repo": "AcessoAudicom",
@@ -462,7 +462,7 @@
     "OpenCV"
    ],
    "site": null,
-   "imagem": "https://raw.githubusercontent.com/Davicjc/FaceSafety/main/.github/readme/telas.png",
+   "imagem": "https://raw.githubusercontent.com/Davicjc/FaceSafety/main/.github/readme/banner.png",
    "atualizado": "2026-10-06"
   },
   {
@@ -651,6 +651,49 @@
    "site": "https://nexusatlas.com.br/",
    "imagem": "https://raw.githubusercontent.com/Davicjc/NexusAtlas/main/.github/readme/preview.png",
    "atualizado": "2026-10-07"
+  },
+  {
+   "repo": "claude-agy",
+   "titulo": "claude-agy",
+   "privado": false,
+   "fork": false,
+   "origem": "pessoal",
+   "cliente": "",
+   "situacao": "no_ar",
+   "ano": "2026",
+   "proposito": "Plugin do Claude Code: Claude e agy (Gemini) trabalhando juntos, com revisão cruzada",
+   "proposito_en": "Claude Code plugin: Claude and agy (Gemini) working together, with cross-review",
+   "perfil": "destaque",
+   "obs": "",
+   "stack": [
+    "Shell",
+    "Claude Code"
+   ],
+   "site": null,
+   "imagem": "https://raw.githubusercontent.com/Davicjc/claude-agy/main/.github/readme/banner.png",
+   "atualizado": "2026-11-03"
+  },
+  {
+   "repo": "FXSound_For_Linux",
+   "titulo": "FXSound for Linux (fork)",
+   "privado": false,
+   "fork": true,
+   "origem": "pessoal",
+   "cliente": "",
+   "situacao": "no_ar",
+   "ano": "2026",
+   "proposito": "Equalizador e efeitos para todo o som do Linux: bandeja, 4 idiomas e janela leve — enviado ao autor no PR #515",
+   "proposito_en": "System-wide equalizer and effects for Linux: tray, 4 languages and a light window — sent upstream as PR #515",
+   "perfil": "destaque",
+   "obs": "",
+   "stack": [
+    "Rust",
+    "React",
+    "Tauri"
+   ],
+   "site": null,
+   "imagem": "https://raw.githubusercontent.com/Davicjc/FXSound_For_Linux/main/.github/readme/banner.png",
+   "atualizado": "2026-11-04"
   },
   {
    "repo": "CJCMinecraftSite",
@@ -901,6 +944,128 @@
    "site": null,
    "imagem": "https://raw.githubusercontent.com/Davicjc/SitesPersonalizado/main/.github/readme/preview.png",
    "atualizado": "2026-10-07"
+  },
+  {
+   "repo": "MacroSilicon-USBDisplay_Adapters-MS912",
+   "titulo": "Driver MS912x (fork)",
+   "privado": false,
+   "fork": true,
+   "origem": "pessoal",
+   "cliente": "",
+   "situacao": "no_ar",
+   "ano": "2026",
+   "proposito": "Driver Linux para adaptadores de vídeo USB MacroSilicon, sem travar o desktop",
+   "proposito_en": "Linux driver for MacroSilicon USB display adapters, without freezing the desktop",
+   "perfil": "lista",
+   "obs": "",
+   "stack": [
+    "C",
+    "Linux"
+   ],
+   "site": null,
+   "imagem": null,
+   "atualizado": "2026-11-03"
+  },
+  {
+   "repo": "Speed-CJC",
+   "titulo": "Speed CJC",
+   "privado": false,
+   "fork": false,
+   "origem": "pessoal",
+   "cliente": "",
+   "situacao": "manutencao",
+   "ano": "2026",
+   "proposito": "Teste de velocidade para rodar no próprio servidor: medição, diagnóstico (NAT, MTU, rota) e painel",
+   "proposito_en": "Self-hosted speed test: measurement, diagnostics (NAT, MTU, route) and admin panel",
+   "perfil": "lista",
+   "obs": "",
+   "stack": [
+    "Node.js",
+    "SQLite"
+   ],
+   "site": null,
+   "imagem": null,
+   "atualizado": "2026-11-04"
+  },
+  {
+   "repo": "SocioVerdao",
+   "titulo": "Sócio Verdão",
+   "privado": true,
+   "fork": false,
+   "origem": "cliente",
+   "cliente": "Uberlândia Esporte Clube",
+   "situacao": "desenvolvimento",
+   "ano": "2026",
+   "proposito": "Portal do sócio do UEC: carteirinha, futebol, contas abertas, votos e Vila Olímpica",
+   "proposito_en": "UEC member portal: digital card, football, open accounts, votes and the Olympic village",
+   "perfil": "destaque",
+   "obs": "",
+   "stack": [
+    "Ionic",
+    "React",
+    "TypeScript"
+   ],
+   "site": "https://davicjc.github.io/SocioVerdao/",
+   "imagem": null,
+   "atualizado": "2026-11-04"
+  },
+  {
+   "repo": "UberlandiaEsporte",
+   "titulo": "Uberlândia Esporte Clube",
+   "privado": true,
+   "fork": false,
+   "origem": "cliente",
+   "cliente": "Uberlândia Esporte Clube",
+   "situacao": "desenvolvimento",
+   "ano": "2026",
+   "proposito": "Página inicial do clube: telão de LED, títulos, elenco no campo, agenda e painel",
+   "proposito_en": "The club's home page: LED screen, titles, squad on the pitch, schedule and admin panel",
+   "perfil": "destaque",
+   "obs": "",
+   "stack": [
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+   ],
+   "site": "https://davicjc.github.io/UberlandiaEsporte/",
+   "imagem": null,
+   "atualizado": "2026-10-20"
+  },
+  {
+   "repo": "codenotch",
+   "titulo": "codenotch (fork)",
+   "privado": false,
+   "fork": true,
+   "origem": "pessoal",
+   "cliente": "",
+   "situacao": "",
+   "ano": "2026",
+   "proposito": "Fork para estudo",
+   "proposito_en": "",
+   "perfil": "ocultar",
+   "obs": "",
+   "stack": [],
+   "site": null,
+   "imagem": null,
+   "atualizado": "2026-10-14"
+  },
+  {
+   "repo": "achievements-lab",
+   "titulo": "achievements-lab",
+   "privado": true,
+   "fork": false,
+   "origem": "pessoal",
+   "cliente": "",
+   "situacao": "",
+   "ano": "2026",
+   "proposito": "Laboratório de testes de PRs e issues",
+   "proposito_en": "",
+   "perfil": "ocultar",
+   "obs": "",
+   "stack": [],
+   "site": null,
+   "imagem": null,
+   "atualizado": "2026-10-15"
   }
  ]
 }

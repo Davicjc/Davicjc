@@ -11,7 +11,7 @@
 
 Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve** e **em que pé está**. Os privados (🔒) aparecem com nome e propósito, mas o código continua fechado.
 
-*Atualizado em 07/10/2026 · 40 projetos · 21 privados · 19 públicos*
+*Atualizado em 04/11/2026 · 46 projetos · 23 privados · 23 públicos*
 
 ## Legenda
 
@@ -31,9 +31,9 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 
 ## Índice
 
-- [Para clientes](#para-clientes) — 11
+- [Para clientes](#para-clientes) — 13
 - [Para a empresa (Audicom)](#para-a-empresa-audicom) — 14
-- [Projetos pessoais](#projetos-pessoais) — 13
+- [Projetos pessoais](#projetos-pessoais) — 17
 - [Faculdade e estudo](#faculdade-e-estudo) — 2
 
 ## Para clientes
@@ -51,6 +51,8 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 | 🌐 | **Patricia Moura · Lash Designer** | Agendamento em tempo real com Firebase<br><sub>HTML5 · CSS3 · JavaScript · Firebase</sub> | 🛑 Abandonado | 2026 | [site](https://davicjc.github.io/PatriciaMouraLashDesign/) · [código](https://github.com/Davicjc/PatriciaMouraLashDesign) |
 | 🔒 | **Quiz da Turma**<br><sub>Rodrigo (professor)</sub> | Quiz ao vivo: professor no PC, alunos no celular com PIN<br><sub>HTML5 · JavaScript · Firebase</sub> | ✅ No ar | 2026 | — |
 | 🔒 | **Valoria CRM**<br><sub>Alpa Solutions</sub> | CRM/ERP white-label para operações de campo<br><sub>HTML5 · Tailwind CSS · JavaScript · Firebase</sub> | ✅ No ar | 2026 | [site](https://davicjc.github.io/Crm_Alpa-Solutions/) |
+| 🔒 | **Sócio Verdão**<br><sub>Uberlândia Esporte Clube</sub> | Portal do sócio do UEC: carteirinha, futebol, contas abertas, votos e Vila Olímpica<br><sub>Ionic · React · TypeScript</sub> | 🛠️ Em desenvolvimento | 2026 | [site](https://davicjc.github.io/SocioVerdao/) |
+| 🔒 | **Uberlândia Esporte Clube** | Página inicial do clube: telão de LED, títulos, elenco no campo, agenda e painel<br><sub>HTML5 · CSS3 · JavaScript</sub> | 🛠️ Em desenvolvimento | 2026 | [site](https://davicjc.github.io/UberlandiaEsporte/) |
 
 ## Para a empresa (Audicom)
 
@@ -86,8 +88,12 @@ Todos os meus projetos num só lugar: **para quem foi feito**, **para que serve*
 | 🔒 | **Gestão de Contratos** | Gestão de contratos, propostas, escopos e material técnico dos clientes de TI, organizados por cliente, projeto e fase.<br><sub>Markdown · HTML5 · Python</sub> | ✅ No ar | 2026 | — |
 | 🔒 | **Hub CJC** | Hub CJC: minha central pessoal de projetos, tarefas e notas de desenvolvimento — React, TypeScript, Vite e Firebase.<br><sub>React · TypeScript · Vite · Tailwind CSS</sub> | ✅ No ar | 2026 | — |
 | 🔒 | **NexusAtlas** | SaaS de ordens de serviço em campo: agenda, rotas e mapa em tempo real<br><sub>HTML5 · JavaScript · Tailwind CSS · Firebase</sub> | ✅ No ar | 2026 | [site](https://nexusatlas.com.br/) |
+| 🌐 | **claude-agy** | Plugin do Claude Code: Claude e agy (Gemini) trabalhando juntos, com revisão cruzada<br><sub>Shell · Claude Code</sub> | ✅ No ar | 2026 | [código](https://github.com/Davicjc/claude-agy) |
+| 🌐 | **FXSound for Linux (fork)** | Equalizador e efeitos para todo o som do Linux: bandeja, 4 idiomas e janela leve — enviado ao autor no PR #515<br><sub>Rust · React · Tauri</sub> | ✅ No ar | 2026 | [código](https://github.com/Davicjc/FXSound_For_Linux) |
 | 🔒 | **Painel Remoto CJC** | Painel remoto para administrar meus servidores de jogo (Minecraft e Terraria) de fora da rede local, com login e fila de comandos no Firebase.<br><sub>HTML5 · JavaScript · Firebase</sub> | ✅ No ar | 2026 | — |
 | 🔒 | **Web pra Você** | Web pra Você (W.P.V.): site de venda de sites personalizados, com serviços, planos, equipe e 6 sites de exemplo completos.<br><sub>HTML5 · CSS3 · JavaScript</sub> | 🛑 Abandonado | 2025 | — |
+| 🌐 | **Driver MS912x (fork)** | Driver Linux para adaptadores de vídeo USB MacroSilicon, sem travar o desktop<br><sub>C · Linux</sub> | ✅ No ar | 2026 | [código](https://github.com/Davicjc/MacroSilicon-USBDisplay_Adapters-MS912) |
+| 🌐 | **Speed CJC** | Teste de velocidade para rodar no próprio servidor: medição, diagnóstico (NAT, MTU, rota) e painel<br><sub>Node.js · SQLite</sub> | 🔄 Recebe atualizações | 2026 | [código](https://github.com/Davicjc/Speed-CJC) |
 
 ## Faculdade e estudo
 
